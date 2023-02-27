@@ -1,0 +1,351 @@
+
+{
+    "routes": [
+        {
+            "id": 0,
+            "route": [
+                {
+                    "lat": 51.59206,
+                    "long": 4.78075
+                },
+                {
+                    "lat": 51.59239,
+                    "long": 4.78067
+                },
+                {
+                    "lat": 51.59240,
+                    "long": 4.78085
+                },
+                {
+                    "lat": 51.59241,
+                    "long": 4.78110
+                },
+                {
+                    "lat": 51.59240,
+                    "long": 4.78127
+                },
+                {
+                    "lat": 51.59237,
+                    "long": 4.78138
+                },
+                {
+                    "lat": 51.59203,
+                    "long": 4.78137
+                },
+                {
+                    "lat": 51.59140,
+                    "long": 4.78127
+                },
+                {
+                    "lat": 51.59137,
+                    "long": 4.78145
+                },
+                {
+                    "lat": 51.59100,
+                    "long": 4.78126
+                },
+                {
+                    "lat": 51.59031,
+                    "long": 4.78218
+                },
+                {
+                    "lat": 51.59007,
+                    "long": 4.78176
+                },
+                {
+                    "lat": 51.58982,
+                    "long": 4.78123
+                },
+                {
+                    "lat": 51.58968,
+                    "long": 4.78084
+                },
+                {
+                    "lat": 51.58956,
+                    "long": 4.78035
+                },
+                {
+                    "lat": 51.58945,
+                    "long": 4.77984
+                },
+                {
+                    "lat": 51.58949,
+                    "long": 4.77970
+                },
+                {
+                    "lat": 51.58960,
+                    "long": 4.77947
+                },
+                {
+                    "lat": 51.58966,
+                    "long": 4.77930
+                },
+                {
+                    "lat": 51.58968,
+                    "long": 4.77911
+                },
+                {
+                    "lat": 51.58969,
+                    "long": 4.77870
+                },
+                {
+                    "lat": 51.58921,
+                    "long": 4.77882
+                },
+                {
+                    "lat": 51.58904,
+                    "long": 4.77799
+                },
+                {
+                    "lat": 51.58848,
+                    "long": 4.77835
+                },
+                {
+                    "lat": 51.58832,
+                    "long": 4.77852
+                },
+                {
+                    "lat": 51.58812,
+                    "long": 4.77822
+                },
+                {
+                    "lat": 51.58796,
+                    "long": 4.77788
+                },
+                {
+                    "lat":51.58752,
+                    "long": 4.77678
+                },
+                {
+                    "lat":51.58671,
+                    "long": 4.77743
+                },
+                {
+                    "lat":51.58637,
+                    "long": 4.77769
+                },
+                {
+                    "lat": 51.58643,
+                    "long": 4.77799
+                },
+                {
+                    "lat": 51.58633,
+                    "long": 4.77805
+                },
+                {
+                    "lat": 51.58629,
+                    "long": 4.77793
+                },
+                {
+                    "lat": 51.58626,
+                    "long": 4.77791
+                },
+                {
+                    "lat": 51.58593,
+                    "long": 4.77798
+                },
+                {
+                    "lat": 51.58563,
+                    "long": 4.77810
+                },
+                {
+                    "lat": 51.58567,
+                    "long": 4.77904
+                }
+
+            ],
+            "poi": [
+                {
+                    "title": "T-Huis",
+                    "number": 1,
+                    "color": "red",
+                    "lat": 51.592000,
+                    "long": 4.780820,
+                    "description": "Gelegen in het historische Valkenbergpark, is het T-Huis dé plek om even te ontsnappen aan de drukte van de stad, zonder dat je het centrum hoeft te verlaten. Je bent hier welkom voor ontbijt, lunch, diner én live muziek. Want op dinsdag is het hier vaste prik jamsession. Iedereen die zingt of een instrument bespeelt kan aansluiten. Op het iconisch rode bordes of op het grasveld recht voor het T-Huis heb je uitzicht op het park en de Grote Toren. Het T-Huis is gebouwd als kunstwerk en is ontworpen door de bekende kunstenaar/architect John Körmeling.",
+                    "thumbnail": [],
+                    "address": "Kennedylaan 15",
+                    "city": "Breda",
+                    "footer_text": "Benieuwd naar het verhaal áchter deze bijzondere plek? Lees dan onze blog.",
+                    "blog": "https://www.welkominbreda.nl/nl/blogs/t-huis-brengt-livemuziek-in-het-park",
+                    "labels": ["foodAndDrink", "entrepreneurs"]
+                },
+                {
+                    "title": "Kamu",
+                    "number": 2,
+                    "color": "magenta",
+                    "lat": 51.590020,
+                    "long": 4.781410,
+                    "description": "Bij Kamu koffiebar en fietsenwinkel zetten ze perfect uitgebalanceerde espresso, zijdezachte cappuccino’s, soepele americano’s en een fijne bak V60 filterkoffie. Naast een goede bak koffie vind je in de fietsenwinkel niche fietsmerken en unieke custom bike builds. Ook kun je bij Kamu terecht voor allerlei workshops, events races en voor al je vragen over gravel-, race- en stadsfietsen.",
+                    "thumbnail": [],
+                    "address": "Boschstraat 31",
+                    "city": "Breda",
+                    "footer_text": "Benieuwd naar het verhaal áchter deze toffe plek? Lees dan onze blog.",
+                    "blog": "https://www.welkominbreda.nl/nl/blogs/kamu-brengt-koffie-en-fietsen-samen",
+                    "labels": ["walkingAndCycling", "entrepreneurs", "foodAndDrink", "Cycling"]
+                },
+                {
+                    "title": "The Green Submarine",
+                    "number": 3,
+                    "color": "purple",
+                    "lat": 51.588880,
+                    "long": 4.777960,
+                    "description": "The Green Submarine helpt jou bij het kiezen, verzorgen en onderhouden van je kamerplanten. Vanuit de winkel in de St. Annastraat in Breda helpt eigenaresse Monique je met het vergroenen van jouw woning, horecazaak of kantoor. De aanschaf van planten is een flinke investering en je wil er natuurlijk alles aan doen om ze zo lang mogelijk in leven te houden. Monique helpt je daar graag bij!\n Aan de St. Annastraat 13 vind je een groot aanbod kamerplanten en plantbenodigdheden. Alles om jouw groene vrienden tevreden te houden en indien nodig van wat extra aandacht te voorzien. Monique stelt het assortiment zorgvuldig samen, met oog voor het milieu en zo duurzaam mogelijk. Daarnaast zoekt ze zoveel mogelijk de samenwerking op met lokale ondernemers.",
+                    "thumbnail": [],
+                    "address": "Sint Annastraat 13",
+                    "city": "Breda",
+                    "footer_text": "Benieuwd naar The Green Submarine? Lees ook de blog over Monique!",
+                    "blog": "https://www.welkominbreda.nl/nl/blogs/monique-brengt-groen-in-huis",
+                    "labels": ["durable", "shopping", "entrepreneurs"]
+                },
+                {
+                    "title": "SAARBARBAARS",
+                    "number": 4,
+                    "color": "indigo",
+                    "lat": 51.588835,
+                    "long": 4.7779902,
+                    "description": "Urban, rauw, tegendraads en gedurfd. Dat is de stijl van SAARBARBAARS. Sarah Boeren maakt en verkoopt unisex tassen, accessoires en kleding. Zij maakt ambachtelijke producten van hoge kwaliteit in haar atelier aan de Sint. Annastraat. Van ontwerp tot eindproduct, met veel liefde en plezier geproduceerd. De tassen zijn modern met een rauw randje: streetwear in een luxe jasje. Elk model heeft een eigen persoonlijke stijl en deze vormen samen een collectie van Barbaarse tassen. Je kunt er ook terecht voor speciale verzoeken om je tas extra persoonlijk te maken!",
+                    "thumbnail": [],
+                    "address": "Sint Annastraat 11",
+                    "city": "Breda",
+                    "footer_text": "Benieuwd naar het verhaal achter SAARBARBAARS? Lees dan de blog.",
+                    "blog": "https://www.welkominbreda.nl/nl/blogs/sarah-brengt-creativiteit-tot-leven",
+                    "labels": ["shopping", "durable", "entrepreneurs"]
+                },
+                {
+                    "title": "FAWL Customs",
+                    "number": 5,
+                    "color": "royal",
+                    "lat": 51.58876419067383,
+                    "long": 4.778165340423584,
+                    "description": "Bij FAWL Customs kun je je eigen sneaker samenstellen. Kies uit meer dan 80 kleuren en oneindig veel kleurencombinaties. In overleg wordt besproken wat het uiteindelijke resultaat moet worden. Daarnaast vind je er ook een aantal exclusieve én vintage sneakers.",
+                    "thumbnail": [],
+                    "address": "Sint Annastraat 9",
+                    "city": "Breda",
+                    "footer_text": "Benieuwd naar het verhaal van FAWL Customs? Wij interviewden eigenaar Freek.",
+                    "blog": "https://www.welkominbreda.nl/nl/blogs/freek-brengt-nieuw-leven-in-jouw-sneakers",
+                    "labels": ["shopping", "entrepreneurs"]
+                },
+                {
+                    "title": "Parels",
+                    "number": 6,
+                    "color": "steel",
+                    "lat": 51.58593852831892,
+                    "long": 4.776869174108735,
+                    "description": "Parels is een circulaire winkel met webshop in de Houtmarkt. In deze winkel worden tweedehands spullen verkocht, echte parels, aangeleverd door Vindingrijk Kringloopwarenhuis. Een winkel zonder voorraad, iedere dag ontdek je hier weer iets 'nieuws'. \n\n Een klein deel van die spullen is ook op de webshop te koop, zodat je niet alleen in de winkel kunt komen shoppen, maar ook online. \nNaast een winkel en webshop is dit een plek van ontmoeting en inspiratie. Een plek waar mensen samenkomen en zich inzetten voor een duurzaam en circulair Breda. Er zijn werk- en vergaderplekken, er kunnen workshops worden gehouden, en er is voorlichting en advies. Allemaal rond het thema circulariteit.",
+                    "thumbnail": [],
+                    "address": "Houtmarktpassage 33",
+                    "city": "Breda",
+                    "labels": ["shopping", "durable"]
+                },
+                {
+                    "title": "Blind Walls Gallery",
+                    "number": 7,
+                    "color": "turquoise",
+                    "lat": 51.58455431043995,
+                    "long": 4.7783715860638605,
+                    "description": "Blind Walls Gallery is hét museum op straat. Een groeiende collectie van meer dan 100 muurschilderingen gemaakt door internationale kunstenaars. Iedere schildering is gebaseerd op een Bredaas verhaal dat past bij de locatie. Op de Mols Parking vind je verschillende Blind Walls met allemaal hun eigen verhaal.\n \nDe Blind Walls Gallery ontdekken kan op verschillende manieren: \n- Wandelen of fietsen aan de hand van de web-app \nDe organisatie van de Blind Walls Gallery heeft [diverse fiets- en wandelroutes](https://blindwalls.gallery/route/) samengesteld die je aan de hand van de vernieuwde app kunt lopen of fietsen.\n - Blind Walls Gallery Tour \nRegelmatig zijn er op zondag op inschrijving rondleidingen te voet of op de fiets langs de muurschilderingen. Een alternatieve manier om de stad te ontdekken. Bijzondere locaties, goede verhalen en mooie kunstwerken. \nAanmelden via: [www.blindwalls.gallery](https://blindwalls.gallery/tours/)\n - Wandel- of fietstour op maat (voor groepen) \nWil je een wandel- of fietstour op maat langs de Blind Walls? Die kun je boeken via de [site van de Blind Walls Gallery.](https://blindwalls.gallery/tours/tour-op-maat/)",
+                    "thumbnail": [],
+                    "address": "Achter de Lange Stallen 1",
+                    "city": "Breda",
+                    "labels": ["history", "walkingAndCycling"]
+                },
+                {
+                    "title": "Algorithmic Perfumery",
+                    "number": 8,
+                    "color": "green",
+                    "lat": 51.58472739233855,
+                    "long": 4.776986513648637,
+                    "description": "Bij Algorithmic Perfumery maak je een geur voor jezelf door je innerlijk te verkennen. Beantwoord een reeks vragen over je persoonlijkheid en ontdek meer over jezelf. Neem een sprong en begin je reis door de wereld van geur. Of maak een kenmerkende geur voor iemand die je kent door een reeks vragen over diens persoonlijkheid te beantwoorden. Verken verschillende facetten over wat hem of haar drijft. #Kunst-wetenschap-technologie \nAlgorithmic Perfumery bevindt zich op het kruispunt van kunst, wetenschap en technologie. Het is ontstaan uit de ontmoeting tussen kunstenaar-technoloog Frederik Duerinck en geurontwerper Anahita Mekanik. Zij stellen de gebruikers centraal in het creatieproces en gaan zo op een nieuwe manier met geuren om. ",
+                    "thumbnail": [],
+                    "address": "address",
+                    "city": "Breda",
+                    "footer_text": "Benieuwd naar het hele verhaal achter Algorithmic Perfumery? Je leest het hier!",
+                    "blog": "https://www.welkominbreda.nl/nl/blogs/algorithmic-perfumery-brengt-een-wereld-van-geur",
+                    "labels": ["shopping", "entrepreneurs"]
+                },
+                {
+                    "title": "BAAI",
+                    "number": 9,
+                    "color": "yellow",
+                    "lat": 51.593398764540154,
+                    "long": 4.769817220405599,
+                    "description": "BAAI is een fijne spot in Breda waar je kunt genieten van een heerlijk drankje aan het water of een compleet verzorgde borrel of diner. BAAI maakt van iedere dag een unieke festivaldag. \nHier kun je allerlei kanten op. Je eet bij BAAI bijvoorbeeld heerlijke tapas, BBQ of buffet.  Of je doet van daaruit met je groep(je) de escape city game of maakt een prachtige boottocht over de singels. \n\nBAAI is een hotspot waar iedereen terecht kan en iets kan beleven dat bij hem of haar past. Het is perfect voor gezelschappen maar als je tot rust wilt komen onder het genot van een drankje ben je hier ook welkom. En dat ieder seizoen in een andere bijzondere setting.",
+                    "thumbnail": [],
+                    "address": "Markkade 1AB",
+                    "city": "Breda",
+                    "footer_text": "Benieuwd naar deze toffe plek? Lees dan onze blog 'BAAI brengt het ultieme vakantie-gevoel'",
+                    "blog": "https://www.welkominbreda.nl/nl/blogs/baai-brengt-het-ultieme-vakantiegevoel",
+                    "labels": ["activeAndFun", "foodAndDrink", "entrepreneurs", "holidays"]
+                },
+                {
+                    "title": "Brandpunt",
+                    "number": 10,
+                    "color": "gold",
+                    "lat": 51.5894636,
+                    "long": 4.7754084,
+                    "description": "Brandpunt een creatieve hotspot in Breda, met een dynamische mix van koffie, winkel en creativiteit. Daarnaast is het een plek waar creatieve ondernemers werken en samenwerken. In de winkel vind je unieke sieraden, decoratie- en gebruiksvoorwerpen. Ook uit de eigen lasersnijderij! \n\n Brandpunt verhuurt ook werkruimtes en je kunt er vergaderen in een inspirerende omgeving in het centrum van Breda.",
+                    "thumbnail": [],
+                    "address": "Reigerstraat 16",
+                    "city": "Breda",
+                    "labels": ["foodAndDrink", "entrepreneurs", "shopping"]
+                },
+                {
+                    "title": "Brouwerij Frontaal",
+                    "number": 11,
+                    "color": "sand",
+                    "lat": 51.5978758,
+                    "long": 4.7831451,
+                    "description": "Ze zijn een brouwerij die staat voor innovatie, balans, creativiteit maar ook zeker voor transparantie (op de helderheid van sommige bieren na). Dit komt allemaal terug in de smaak van het bier, de etiketten maar ook zeker door de manier van handelen door de brouwerij. \n\nHet bier wordt gebrouwen volgens de slogan \"Beer for Thought\". Hiermee doelen ze op het creëren van smaken, kleuren en geuren in het bier, wat de drinker aanzet tot denken waar dit door ontstaan is. Naast dat er op zoek gegaan wordt naar de uitwerking van de ingrediënten zou men ook kunnen denken bij welk gerecht het bier lekker bij is of bij welk moment het goed past.",
+                    "thumbnail": [],
+                    "address": "Liniestraat 31",
+                    "city": "Breda",
+                    "footer_text": "Echte bierliefhebber? Bekijk ook deze pagina met een overzicht van alle brouwerijen in Breda!",
+                    "blog": "https://www.welkominbreda.nl/nl/blogs/brouwerijen-in-breda",
+                    "labels": ["history", "foodAndDrink"]
+                },
+                {
+                    "title": "STEK",
+                    "number": 12,
+                    "color": "orange",
+                    "lat": 51.5990158,
+                    "long": 4.7666235,
+                    "description": "Stek is een broedplaats voor creatieve ondernemers in het Bredase Havenkwartier. Duurzamheid, circulariteit en samenwerking staan hier hoog in het vaandel. Het is een echte community waar iedereen elkaar helpt om verantwoord te ondernemen. \n\nOp Stek vind je ca. 25 uiteenlopende bedrijven. Zo maakt Plastiek van afvalplastic nieuwe producten. Bredase Bomen geeft gevelde bomen terug aan de wijk in de vorm van straatmeubilair. En bij Elemental doe je verpakkingsloos je boodschappen. Er zijn verschillende plekken waar je neerstrijkt voor een eerlijke koffie, lokaal biertje of lekkere lunch. Ook kinderen vermaken zich prima op Stek want er valt genoeg te spelen.",
+                    "thumbnail": [],
+                    "address": "Veilingkade 9a",
+                    "city": "Breda",
+                    "footer_text": "Wil je weten welke ondernemers je op STEK vindt? Lees dan ons blog over STEK.",
+                    "blog": "https://www.welkominbreda.nl/nl/blogs/wat-is-er-te-doen-op-stek",
+                    "labels": ["shopping", "durable"]
+                },
+                {
+                    "title": "Pier15",
+                    "number": 13,
+                    "color": "red",
+                    "lat": 51.5994363,
+                    "long": 4.7648965,
+                    "description": "In de afgelopen jaren is Pier15 uitgegroeid tot een van de toonaangevende skateparken in Europa. maar het is ook een broeinest voor cultuur. Met meer dan 60.000 bezoekers per jaar, wekelijks culturele evenementen, festivals, skateschool en skatecamp is Pier15 een plek waar je jezelf blijft uitdagen en ontwikkelen. \n\nPier15 is dé hotspot voor urban sports & culture in Breda. Je vindt er o.a. het indoor skatepark, een buitenbowl, een freerunpark en een basketbalveld. Ook kun je er genieten van optredens van bandjes in de bar, filmpremières, foto-exposities, festivals, eigenzinnige performance avonden en uiteraard van een goede kop koffie of een lekker speciaalbiertje in de bar of op het zonnige terras",
+                    "thumbnail": [],
+                    "address": "Veilingkade 12",
+                    "city": "Breda",
+                    "footer_text": "Benieuwd naar het verhaal achter Pier15? Lees dan de blog.",
+                    "blog": "https://www.welkominbreda.nl/nl/blogs/pier15-brengt-grenzeloze-moves",
+                    "labels": ["activeAndFun", "entrepreneurs"]
+                },
+                {
+                    "title": "BRACK",
+                    "number": 14,
+                    "color": "magenta",
+                    "lat": 51.6005996,
+                    "long": 4.7674736,
+                    "description": "BRACK beer construction is een samenwerking tussen Brouwerij Bliksem, Ramses Bier en Bredase Bomen. Met als uitgangspunt vernieuwende bieren en (h)eerlijk eten met een verantwoord en origineel uitgangspunt. De naam BRACK beer construction is een afgeleide van Backer & Rueb, Ramses, Bliksem en een verwijzing naar de locatie en oprichters. \n\nHet is ook een knipoog naar brak water omdat de locatie aan het water ligt en er bieren geschonken worden die niet altijd in een hokje te plaatsen zijn. BRACK is een creatieve en ongedwongen plek in een industrieel decor aan het water. Behalve de lekkerste bieren vind je er ook een menukaart met eerlijk en vers eten.",
+                    "thumbnail": [],
+                    "address": "Speelhuislaan 173a",
+                    "city": "Breda",
+                    "footer_text": "Bierliefhebber? Bekijk ons dit blog over alle brouwerijen in Breda!",
+                    "blog": "https://www.welkominbreda.nl/nl/blogs/brouwerijen-in-breda",
+                    "labels": ["history", "foodAndDrink"]
+                }
+            ]
+        }
+    ]
+}

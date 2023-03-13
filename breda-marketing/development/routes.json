@@ -157,7 +157,8 @@
             "poi": [
                 {
                     "title": "T-Huis",
-                    "number": 1,
+                    "type": "food",
+                    "id": "39d9380f-cc19-4fb6-9249-a63d4133c535",
                     "color": "red",
                     "lat": 51.592000,
                     "long": 4.780820,
@@ -171,7 +172,8 @@
                 },
                 {
                     "title": "Kamu",
-                    "number": 2,
+                    "type": "food",
+                    "id": "ab6762bf-9f01-4c8e-9f5e-2cc55e59219c",
                     "color": "magenta",
                     "lat": 51.590020,
                     "long": 4.781410,
@@ -185,7 +187,8 @@
                 },
                 {
                     "title": "The Green Submarine",
-                    "number": 3,
+                    "type": "shop",
+                    "id": "623de0f2-4135-4fe2-8416-72dd508d2a7f",
                     "color": "purple",
                     "lat": 51.588880,
                     "long": 4.777960,
@@ -199,7 +202,8 @@
                 },
                 {
                     "title": "SAARBARBAARS",
-                    "number": 4,
+                    "type": "shop",
+                    "id": "4f7a0020-90c5-41c8-bdd9-65df9c2bad99",
                     "color": "indigo",
                     "lat": 51.588835,
                     "long": 4.7779902,
@@ -213,7 +217,8 @@
                 },
                 {
                     "title": "FAWL Customs",
-                    "number": 5,
+                    "type": "shop",
+                    "id": "6f5f1bcd-f934-445b-99a4-75cbbd6a299c",
                     "color": "royal",
                     "lat": 51.58876419067383,
                     "long": 4.778165340423584,
@@ -227,7 +232,8 @@
                 },
                 {
                     "title": "Parels",
-                    "number": 6,
+                    "type": "shop",
+                    "id": "c9afb4bd-a063-4870-b264-2fbc39aa1704",
                     "color": "steel",
                     "lat": 51.58593852831892,
                     "long": 4.776869174108735,
@@ -239,7 +245,8 @@
                 },
                 {
                     "title": "Blind Walls Gallery",
-                    "number": 7,
+                    "type": "culture",
+                    "id": "cb6470c9-3f79-41cc-aa0b-7b1a59c5bb5d",
                     "color": "turquoise",
                     "lat": 51.58455431043995,
                     "long": 4.7783715860638605,
@@ -251,7 +258,8 @@
                 },
                 {
                     "title": "Algorithmic Perfumery",
-                    "number": 8,
+                    "type": "shop",
+                    "id": "13f56725-6b89-417c-b9c3-6a876407fa37",
                     "color": "green",
                     "lat": 51.58472739233855,
                     "long": 4.776986513648637,
@@ -265,7 +273,8 @@
                 },
                 {
                     "title": "BAAI",
-                    "number": 9,
+                    "type": "food",
+                    "id": "5eaabde1-cbd4-4b6f-a4f4-4757b1be0406",
                     "color": "yellow",
                     "lat": 51.593398764540154,
                     "long": 4.769817220405599,
@@ -279,7 +288,8 @@
                 },
                 {
                     "title": "Brandpunt",
-                    "number": 10,
+                    "type": "food",
+                    "id": "cd239970-54d5-46df-ab85-9196df80dd3a",
                     "color": "gold",
                     "lat": 51.5894636,
                     "long": 4.7754084,
@@ -291,7 +301,8 @@
                 },
                 {
                     "title": "Brouwerij Frontaal",
-                    "number": 11,
+                    "type": "food",
+                    "id": "1d638ced-71f3-408f-b909-955d10500b6a",
                     "color": "sand",
                     "lat": 51.5978758,
                     "long": 4.7831451,
@@ -305,7 +316,8 @@
                 },
                 {
                     "title": "STEK",
-                    "number": 12,
+                    "type": "entertainment",
+                    "id": "0013bbf1-5eaf-4b0c-a526-b82e3cfde30f",
                     "color": "orange",
                     "lat": 51.5990158,
                     "long": 4.7666235,
@@ -319,7 +331,8 @@
                 },
                 {
                     "title": "Pier15",
-                    "number": 13,
+                    "type": "entertainment",
+                    "id": "598320f2-9317-4121-b498-1e06d1a6d651",
                     "color": "red",
                     "lat": 51.5994363,
                     "long": 4.7648965,
@@ -333,7 +346,8 @@
                 },
                 {
                     "title": "BRACK",
-                    "number": 14,
+                    "type": "food",
+                    "id": "7d1c5883-a0f5-463c-a1c0-3932ef4585d2",
                     "color": "magenta",
                     "lat": 51.6005996,
                     "long": 4.7674736,

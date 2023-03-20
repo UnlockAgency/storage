@@ -683,16 +683,24 @@
                     "lat": 51.592000,
                     "long": 4.780820,
                     "description": {
-                        "en": "Located in the historic Valkenberg Park, the T-House is the place to escape the hustle and bustle of the city, without having to leave the center. A place where you can settle down for coffee, lunch, dinner, or drinks. Children can also enjoy themselves in the nice playground within sight of the terrace.\n\nOn the iconic red borders or on the lawn right in front of the T-House you have a view of the park and the Grote Toren. A relaxed place where with a bit of luck you will be welcomed by the house chickens.",
-                        "nl": "Gelegen in het historische Valkenbergpark, is het T-Huis dé plek om even te ontsnappen aan de drukte van de stad, zonder dat je het centrum hoeft te verlaten. Een plek waar je kunt neerstrijken voor koffie, lunch, diner of borrel. Ook kinderen vermaken zich, in het zicht van het terras, prima in de fijne speeltuin.\n\nOp het iconisch rode bordes of op het grasveld recht voor het T-Huis heb je uitzicht op het park en de Grote Toren. Een relaxte plekken waar je met een beetje geluk verwelkomd wordt door de huiskippen."
+                        "en": "Located in the beautiful Valkenberg Park, the T-Huis is one of Breda's hotspot. A place to escape the hustle and bustle of the city for a while. Whether you sit inside and enjoy the 360-degree view, or on the (all-day) sunny terrace. Even children, within sight of the terrace, have a great time in the fine playground. \n\nEnjoy a three-course dinner, lunch or even breakfast in the middle of greenery. Don´t let the name fool you: on the extensive drinks menu, you will find many types of tea and coffee as well as beautiful, seasonal special beers, summer cocktails and even homemade sangria. \n\nFor those who prefer to chill in the grass, there are lounge chairs and beanbags ready around the terrace and you can order quickly and simply via a QR code. In other words, any time of the day, all week long, you can enjoy T-huis.",
+                        "nl": "Gelegen in het prachtige Valkenbergpark, is het T-Huis dé horeca hotspot van Breda. Een plek om even te ontsnappen aan de drukte van de stad. Of je nu binnen zit en geniet van het 360-graden uitzicht, of op het (heel de dag door) zonnige terras. Ook kinderen vermaken zich, in het zicht van het terras, prima in de fijne speeltuin. \n\nMidden in het groen geniet je van een driegangendiner, lunch en zelfs ontbijt. Don´t let the name fool you: op de uitgebreide drankkaart vind je naast veel soorten thee en koffie ook prachtige, seizoensgebonden speciaalbiertjes, zomerse cocktails en zelfs huisgemaakte sangria. \n\nVoor wie liever in het gras chilt, staan er loungestoelen en zitzakken klaar rondom het terras en bestel je via een QR-code snel en simpel. Oftewel, op elk moment van de dag, de hele week door, kun je bij het T-Huis prinsheerlijk genieten."
+                    },
+                    "openHours": {
+                        "en": "Monday to Sunday: 10:00 - 23:00",
+                        "nl": "Maandag t/m Zondag: 10:00 - 23:00"
                     },
                     "thumbnails": [
-                        "https://assets.citynavigator.nl/odp-breda/image/breda-explore-valkenberg-5_2284600787.jpg"
+                        "https://assets.citynavigator.nl/odp-breda/image/t-huis_2928926246.jpg"
                     ],
                     "address": "Kennedylaan 15",
                     "city": "Breda",
+                    "postalCode": "4811 ET",
                     "website": "https://t-huis.online",
-                    "labels": []
+                    "labels": [
+                        "foodAndDrink",
+                        "nature"
+                    ]
                 },
                 {
                     "title": "Kamu",
@@ -702,14 +710,19 @@
                     "lat": 51.590020,
                     "long": 4.781410,
                     "description": {
-                        "en": "At Kamu, the love for (self-roasted) coffee and cycling go hand in hand. In this coffee bar and unique bicycle shop you can enjoy a silky cappuccino with delicious cakes, but the specialists will also help you with everything you need to know about cycling.\n\nIt is not your average bicycle shop, but a shop full of niche bicycle brands and accessories. Preferably they put together a unique custom bike with you, entirely according to your wishes. You can also contact Kamu for all kinds of workshops, events, races and for all your questions about gravel, racing and city bikes.",
-                        "nl": "Bij Kamu gaan de liefde voor (zelfgebrande) koffie en fietsen hand in hand. In deze koffiebar én unieke fietsenwinkel kan je terecht voor een zijdezachte cappuccino met heerlijke cakes, maar helpen de specialisten je ook met alles wat je moet weten over fietsen./n/nHet is geen doorsnee fietsenwinkel, maar een shop vol met niche fietsmerken en accessoires. Het liefst stellen ze samen met jou een unieke custom bike samen, geheel naar wens.  Ook kun je bij Kamu terecht voor allerlei workshops, events, races en voor al je vragen over gravel-, race- en stadsfietsen."
+                        "en": "At Kamu, the love of coffee and cycling go hand in hand. At this coffee bar and unique bike shop, you'll drink a silky smooth cappuccino with delicious cakes, but the specialists will also help you with everything you need to know about bikes. \n\nKamu is not your average bike shop, but a shop full of niche bike brands and accessories. Ideally, they will work with you here to put together a unique custom bike, completely to your liking. You can also come to Kamu for events, races and all your questions about gravel, road and mountain bikes.",
+                        "nl": "Bij Kamu gaan de liefde voor koffie en fietsen hand in hand. In deze koffiebar én unieke fietsenwinkel drink je een zijdezachte cappuccino met heerlijke cakes, maar helpen de specialisten je ook met alles wat je moet weten over fietsen. \n\nKamu is geen doorsnee fietsenwinkel, maar een shop vol met niche fietsmerken en accessoires. Het liefst stellen ze hier samen met jou een unieke custom bike samen, helemaal naar jouw wens. \n\nOok kun je bij Kamu terecht voor allerlei events, races én met al je vragen over gravel-, race- en mountainbikefietsen."
+                     },
+                    "openHours": {
+                        "en": "Monday to Friday: 09:00 - 17:30  \n\nSaturday: 09:00 - 17:00  \n\nSunday: 11:00 - 17:00",
+                        "nl": "Maandag t/m Vrijdag: 09:00 - 17:30 \n\nZaterdag: 09:00 - 17:00  \n\nZondag: 11:00 - 17:00"
                     },
                     "thumbnails": [
-                        "https://assets.citynavigator.nl/odp-breda/image/kamu-boschstraat-fmo-1-large_1358516851.jpg"
+                        "https://assets.citynavigator.nl/odp-breda/image/kamu-breda4_4086953813.jpg"
                     ],
                     "address": "Boschstraat 31",
                     "city": "Breda",
+                    "postalCode": "4811 GA",
                     "website": "https://www.kamu-breda.nl",
                     "labels": [
                         "shopping",
@@ -724,14 +737,19 @@
                     "lat": 51.588880,
                     "long": 4.777960,
                     "description": {
-                        "en": "Monique from The Green Submarine has much love for plants. She helps you make your home greener, chooses the right plants and gives advice on care and maintenance so that you can enjoy it for as long as possible. Step into this beautiful shop and be inspired!\n\nIn her urban jungle you will find a wide range of houseplants and plant supplies. Everything to keep your green friends happy and, if necessary, to provide them with some extra attention. Monique puts together the range carefully, with an eye for the environment and as sustainable as possible. In addition, she seeks cooperation with local entrepreneurs as much as possible.",
-                        "nl": "Bij Monique van The Green Submarine spat de liefde voor planten ervan af. Ze helpt je met het vergroenen van jouw woning, het kiezen van de juiste planten en geeft advies over het verzorgen en onderhouden zodat je er zo lang mogelijk van kan genieten. Stap binnen in deze prachtige winkel en laat je inspireren!\n\nIn haar urban jungle vind je een groot aanbod kamerplanten en plantbenodigdheden. Alles om jouw groene vrienden tevreden te houden en indien nodig van wat extra aandacht te voorzien. Monique stelt het assortiment zorgvuldig samen, met oog voor het milieu en zo duurzaam mogelijk. Daarnaast zoekt ze zoveel mogelijk de samenwerking op met lokale ondernemers."
+                        "en": "At Monique's green shop, everything breathes love for plants. Monique helps you green up your home and choose the right plants. But she also gives advice on care and maintenance so you can enjoy them for as long as possible. Step inside The Green Submarine and get inspired!  \n\nIn this urban jungle, you will find a wide range of houseplants and planting accessories. Everything to keep your green friends happy and give them some extra attention if necessary. Monique puts together the range carefully, with an eye for the environment and as sustainable as possible. In addition, she seeks cooperation with local entrepreneurs as much as possible.",
+                        "nl":"In de groene winkel van Monique ademt alles liefde voor planten. Monique helpt je met het vergroenen van jouw woning en het kiezen van de juiste planten. Maar ze geeft ook advies over de verzorging zodat je er zo lang mogelijk van kunt genieten. Stap binnen in The Green Submarine en laat je inspireren! \n\nIn deze urban jungle vind je een groot aanbod kamerplanten en plantbenodigdheden. Alles om jouw groene vrienden tevreden te houden en indien nodig van wat extra aandacht te voorzien. Monique stelt het assortiment zorgvuldig samen, met oog voor het milieu en zo duurzaam mogelijk. Daarnaast zoekt ze zoveel mogelijk de samenwerking op met lokale ondernemers."
+                    },
+                    "openHours": {
+                        "en": "Tuesday to Saturday: 11:00 - 17:30 \n\nSunday to Monday: Closed",
+                        "nl": "Dinsdag t/m Zaterdag: 11:00 - 17:30 \n\nZondag t/m Maandag: Gesloten"
                     },
                     "thumbnails": [
-                        "https://assets.citynavigator.nl/odp-breda/image/thegreensubmarine-125-medium_1528387664.jpg"
+                        "https://assets.citynavigator.nl/odp-breda/image/the-green-submarine1_4020678272.jpg"
                     ],
                     "address": "Sint Annastraat 13",
                     "city": "Breda",
+                    "postalCode": "4811 XK",
                     "website": "https://www.thegreensubmarine.nl",
                     "labels": [
                         "shopping"
@@ -745,14 +763,19 @@
                     "lat": 51.588835,
                     "long": 4.7779902,
                     "description": {
-                        "en": "Urban, raw, unruly, and daring. That is the style of SAARBARBAARS. Sarah makes and sells unisex bags, accessories, and clothing. In her beautiful studio on the St. Annastraat, she makes high-quality artisan products.\n\nFrom design to end product, produced with lots of love and pleasure. Her products are modern with a raw edge: streetwear in a luxurious layer. You can also have your own designs adapted to your personal wishes.",
-                        "nl": "Urban, rauw, tegendraads en gedurfd. Dat is de stijl van SAARBARBAARS. Sarah maakt en verkoopt unisex tassen, accessoires en kleding. In haar prachtige atelier aan de St. Annastraat maakt zij ambachtelijke producten van hoge kwaliteit. \n\nVan ontwerp tot eindproduct, met veel liefde en plezier geproduceerd. Haar producten zijn modern met een rauw randje: streetwear in een luxe jasje. Ook kun je eigen ontwerpen naar je persoonlijke wensen aan laten passen."
+                        "en": "Urban, raw, unruly, and daring. That is the style of SAARBARBAARS. Sarah designs and makes unisex bags, accessories and sells her own merchandise. In her beautiful studio on the St. Annastraat, she makes high-quality artisan products.  \n\nFrom design to end product, produced with lots of love and pleasure. Her designs are modern with a raw edge: streetwear in a luxurious layer. Curious about the different models in the collection? Be sure to drop in.",
+                        "nl": "Urban, rauw, tegendraads en gedurfd. Dat zijn het atelier en de stijl van SAARBARBAARS. Sarah ontwerpt en maakt uniseks tassen en accessoires en ze verkoopt haar eigen merchandise. In haar prachtige atelier aan de St. Annastraat ontwikkelt ze ambachtelijke producten van hoge kwaliteit. \n\nVan ontwerp tot eindproduct wordt hier met veel liefde en plezier geproduceerd. Sarah's ontwerpen zijn modern met een rauw randje: streetwear in een luxe jasje. Benieuwd naar de verschillende modellen uit de collectie? Loop zeker even binnen."
+                    },
+                    "openHours": {
+                        "en": "Wednesday to Saturday: 11:00 - 17:30 \n\nSunday to Tuesday: Closed",
+                        "nl": "Woensdag t/m Zaterdag: 11:00 - 17:30  \n\nZondag t/m Dinsdag: Gesloten"
                     },
                     "thumbnails": [
-                        "https://assets.citynavigator.nl/odp-breda/image/saar-barbaars-2-st-annastraat-veemarktkwartier-fmo_2457052288.jpg"
+                        "https://assets.citynavigator.nl/odp-breda/image/saar-barbaars_3723486005.jpg"
                     ],
                     "address": "Sint Annastraat 11",
                     "city": "Breda",
+                    "postalCode": "4811 XK",
                     "website": "https://www.saarbarbaars.com",
                     "labels": [
                         "shopping"
@@ -766,14 +789,19 @@
                     "lat": 51.58876419067383,
                     "long": 4.778165340423584,
                     "description": {
-                        "en": "As a sneaker lover you must have visited Freek from FAWL Customs. Here you put together your own sneakers, based entirely on your preference. Freek customized them for you by hand, so that you have your own unique pair of shoes. You can also contact FAWL to 'clean, restore or repair' your old or dirty shoes.\n\nThis is how you give your old shoes a new life. In addition, you will also find several exclusive and vintage sneakers in his store on St. Annastraat.",
-                        "nl": "Als sneakerliefhebber moet je bij Freek van FAWL Customs geweest zijn. Hier stel je namelijk je eigen sneakers samen, helemaal gebaseerd op jouw voorkeur. Freek customized ze met de hand voor je, zodat jij je eigen unieke paar schoenen hebt. Ook kan je bij FAWL terecht om je oude of vieze schoenen te 'cleanen, restoren of reparen'.\n\nZo geef je je oude schoenen een nieuw leven. Daarnaast vind je in zijn winkel aan de St. Annastraat ook een aantal exclusieve én vintage sneakers."
+                        "en": "As a sneaker lover you must have visited Freek from FAWL Customs. Here you put together your own sneakers, based entirely on your preference. Freek customized them for you by hand, so that you have your own unique pair of shoes. You can also contact FAWL to clean, restore or repair your old or dirty shoes. \n\nThis is how you give your old shoes a new life. In addition, you will also find several exclusive and vintage sneakers in his store on St. Annastraat.",
+                        "nl": "Als sneakerliefhebber moet je bij Freek van FAWL Customs geweest zijn. Hier stel je namelijk je eigen sneakers samen, helemaal gebaseerd op jouw voorkeur. Freek customized ze met de hand voor je, zodat jij je eigen unieke paar schoenen hebt. Ook kun je bij FAWL terecht om je oude of vieze schoenen te ‘cleanen, restoren of reparen’. \n\nZo geef je je oude schoenen een nieuw leven. Daarnaast vind je in zijn winkel aan de St. Annastraat ook exclusieve én vintage sneakers."
+                     },
+                    "openHours": {
+                        "en": "Monday to Tuesday: Closed \n\nWednesday to Friday: 11:00 - 17:00  \n\nSaturday to Sunday: 12:00 - 17:00",
+                        "nl": "Maandag t/m Dinsdag: Gesloten \n\nWoensdag t/m Vrijdag: 11:00 - 17:00 \n\nZaterdag t/m Zondag: 12:00 - 17:00"
                     },
                     "thumbnails": [
                         "https://assets.citynavigator.nl/odp-breda/image/fawl-customs-st-annastraat-1_1842643163.jpg"
                     ],
                     "address": "Sint Annastraat 9",
                     "city": "Breda",
+                    "postalCode": "4811 XK",
                     "website": "https://www.fawlcustoms.com",
                     "labels": [
                         "shopping"
@@ -784,17 +812,22 @@
                     "type": "shop",
                     "id": "c9afb4bd-a063-4870-b264-2fbc39aa1704",
                     "color": "steel",
-                    "lat": 51.58593852831892,
-                    "long": 4.776869174108735,
+                    "lat": 51.586010000000044,
+                    "long": 4.777160000000038,
                     "description": {
-                        "en": "Pearls is a circular store in the Houtmarkt. This store is the 'treasure chamber' of Kringloopwarenhuis Vindingrijk and creatively decorated with recycled material. You don't just come here to score gems with a past. It is also a place of meeting and inspiration for people who are committed to a sustainable and circular Breda.\n\nA store without stock, every day you discover something 'new' here. A small part of that stuff is also for sale on the webshop. Next to the store there are work and meeting places and workshops, information and advice are given on circularity.",
-                        "nl": "Parels is een circulaire winkel in de Houtmarkt. Deze winkel is de 'schatkamer’ van Kringloopwarenhuis Vindingrijk en creatief ingericht met herwonnen materiaal. Hier kom je niet alleen om pareltjes met een verleden te scoren. Het is ook een plek van ontmoeting en inspiratie voor mensen die zich inzetten voor een duurzaam en circulair Breda.\n\nEen winkel zonder voorraad, iedere dag ontdek je hier weer iets 'nieuws'. Een klein deel van die spullen is ook op de webshop te koop. Naast de winkel zijn er werk- en vergaderplekken én worden er workshops, voorlichtingen en advies gegeven rondom circulariteit."
+                        "en": "Pearls is a circular store in the Houtmarkt. This store is the 'treasure chamber' of Kringloopwarenhuis Vindingrijk and creatively decorated with recycled material. You don't just come here to score gems with a past. It is also a place of meeting and inspiration for people who are committed to a sustainable and circular Breda. \n\nA store without stock, every day you discover something 'new' here. A small part of that stuff is also for sale on the webshop. Next to the store there are work and meeting places and workshops, information and advice are given on circularity.",
+                        "nl": "Parels is een circulaire winkel in de Houtmarkt. Deze winkel is de ‘schatkamer’ van Kringloopwarenhuis Vindingrijk en creatief ingericht met herwonnen materiaal. Hier kom je niet alleen om pareltjes met een verleden te scoren. Het is ook een plek van ontmoeting en inspiratie voor mensen die zich inzetten voor een duurzaam en circulair Breda. \n\nEen winkel zonder voorraad, iedere dag ontdek je hier weer iets 'nieuws'. Een klein deel van die spullen is ook in de webshop te koop. Naast de winkel zijn er werk- en vergaderplekken én worden er workshops, voorlichting en advies gegeven rondom circulariteit."
+                     },
+                    "openHours": {
+                        "en": "Tuesday to Saturday: 10.00 - 18.00 \n\nSunday to Monday: Closed",
+                        "nl": "Dinsdag t/m Zaterdag: 10.00 - 18.00 \n\nZondag t/m Maandag: Gesloten"
                     },
                     "thumbnails": [
-                        "https://assets.citynavigator.nl/odp-breda/image/parels-optie-1-medium_3770438132.jpg"
+                        "https://assets.citynavigator.nl/odp-breda/image/parels2_2949094378.jpg"
                     ],
                     "address": "Houtmarktpassage 33",
                     "city": "Breda",
+                    "postalCode": "4811 JC",
                     "website": "https://parelsbreda.nl",
                     "labels": [
                         "shopping"
@@ -808,17 +841,22 @@
                     "lat": 51.58455431043995,
                     "long": 4.7783715860638605,
                     "description": {
-                        "en": "At first glance, the parking lot 'Achter de Lange Stallen' is not the most inspiring place, until you discover all the creative street art. These murals are part of Blind Walls Gallery. Blind Walls Gallery is the museum on the street in Breda.\n\nA growing collection of over 100 murals created by international artists. Each painting is based on a Breda story that fits the location. In the parking lot you will find several Blind Walls, each with their own story and you will probably encounter more on this route.",
-                        "nl": "Op het eerste gezicht is de parkeerplaats 'Achter de Lange Stallen' niet de meest inspirerende plek, tot je alle creatieve streetart ontdekt. Deze muurschilderingen zijn onderdeel van Blind Walls Gallery. Blind Walls Gallery is hét museum op straat in Breda.\n\nEen groeiende collectie van meer dan 100 muurschilderingen gemaakt door internationale kunstenaars. Iedere schildering is gebaseerd op een Bredaas verhaal dat past bij de locatie. Op de parkeerplaats vind je verschillende Blind Walls met allemaal hun eigen verhaal en op deze route kom je er vast nog meer tegen."
+                        "en": "At first glance, the parking lot 'Achter de Lange Stallen' is not the most inspiring place, until you discover all the creative street art. These murals are part of Blind Walls Gallery. Blind Walls Gallery is the museum on the street in Breda. \n\nA growing collection of over 100 murals created by international artists. Each painting is based on a Breda story that fits the location. In the parking lot you will find several Blind Walls, each with their own story and you will probably encounter more on this route.",
+                        "nl": "Op het eerste gezicht is de parkeerplaats ‘Achter de Lange Stallen’ niet de meest inspirerende plek, tot je alle creatieve streetart ontdekt. Deze muurschilderingen zijn onderdeel van de Blind Walls Gallery, hét museum op straat in Breda. \n\nEen groeiende collectie van meer dan honderd muurschilderingen, gemaakt door internationale kunstenaars. Iedere schildering is gebaseerd op een Bredaas verhaal dat past bij de locatie. Op de parkeerplaats vind je verschillende Blind Walls met allemaal hun eigen verhaal en op deze route kom je er vast nog meer tegen."
+                     },
+                    "openHours": {
+                        "en": "Open 24/7",
+                        "nl": "24/7 te bezoeken"
                     },
                     "thumbnails": [
-                        "https://assets.citynavigator.nl/odp-breda/image/breda-explore-blind-walls-3-medium_3551467927.jpg"
+                        "https://assets.citynavigator.nl/odp-breda/image/blindwallsgallery_1531352646.jpg"
                     ],
                     "website": "https://blindwalls.gallery/",
                     "address": "Achter de Lange Stallen 1",
                     "city": "Breda",
+                    "postalCode": "4811 HM",
                     "labels": [
-                        "history",
+                        "culture",
                         "activeAndFun"
                     ]
                 },
@@ -830,14 +868,19 @@
                     "lat": 51.58472739233855,
                     "long": 4.776986513648637,
                     "description": {
-                        "en": "At Algorithmic Perfumery, you put together your own perfume based on a questionnaire about your personality. A place where creativity and technology come together and where you can experience a unique fragrance experience.\n\nIn the 'lab' you can see the machine that composes this fragrance for you and the staff will take you into the world of fragrance. Together you will look for your unique perfume or create a signature scent for someone you know. A unique place in the shopping district of Breda.",
-                        "nl": "Bij Algorithmic Perfumery stel je aan de hand van een vragenlijst over jouw persoonlijkheid zelf een parfum samen. Een plek waar creativiteit en technologie samen komen en waar je een unieke geur experience kunt beleven. \n\nIn het 'lab’ zie je de machine die deze geur voor je samenstelt en neemt het personeel je mee in de wereld van geur. Samen ga je op zoek naar jouw unieke parfum of maak een kenmerkende geur voor iemand die je kent. Een unieke plek in de winkelstraat van Breda."
+                        "en": "At Algorithmic Perfumery, you put together your own perfume based on a questionnaire about your personality. A place where creativity and technology come together and where you can experience a unique fragrance experience. \n\nIn the 'lab' you can see the machine that composes this fragrance for you and the staff will take you into the world of fragrance. Together you will look for your unique perfume or create a signature scent for someone you know. A unique place in the shopping district of Breda.",
+                        "nl": "Bij Algorithmic Perfumery stel je aan de hand van een vragenlijst over jouw persoonlijkheid zelf een parfum samen. Een plek waar creativiteit en technologie samen komen en waar je een unieke geur experience kunt beleven. \n\nIn het ‘lab’ zie je de machine die deze geur voor je samenstelt. Hier neemt een medewerker je mee in de wereld van geur. Samen ga je op zoek naar jouw unieke parfum of je maakt een kenmerkende geur voor iemand die je kent. Een unieke plek in de winkelstraat van Breda."
+                     },
+                    "openHours": {
+                        "en": "Monday: 12:00 - 18:00 \n\nTuesday, Wednesday, Friday & Saturday: 10:00 - 18:00 \n\nThursday: 10:00 - 21:00 \n\nSunday: 12:00 - 17:00",
+                        "nl": "Maandag: 12:00 - 18:00 \n\nDinsdag, Woensdag, Vrijdag & Zaterdag: 10:00 - 18:00 \n\nDonderdag: 10:00 - 21:00 \n\nZondag: 12:00 - 17:00"
                     },
                     "thumbnails": [
-                        "https://assets.citynavigator.nl/odp-breda/image/fmo-2807-min_1125146211.jpg"
+                        "https://assets.citynavigator.nl/odp-breda/image/algorithmic-perfumery_241574372.jpg"
                     ],
-                    "address": "address",
+                    "address": "Ginnekenstraat 61",
                     "city": "Breda",
+                    "postalCode": "4811 JE",
                     "website": "https://www.everyhuman.com/nl",
                     "labels": [
                         "shopping"
@@ -851,40 +894,50 @@
                     "lat": 51.593398764540154,
                     "long": 4.769817220405599,
                     "description": {
-                        "en": "Do you want to go out on the water? Then moor at BAAI, a place where it always seems like a holiday. BAAI is a nice spot on the water where you can moor (and rent) boats and enjoy music, games, and good food.\n\nBAAI is a hotspot where everyone can go and experience something that suits them. It is perfect for groups, but you can also relax while enjoying a drink. Every season BAAI is transformed into a real 'seasonal hotspot'. From igloos in the winter to a sunny terrace in the summer.",
-                        "nl": "Mocht je het water op gaan? Leg dan vooral even aan bij BAAI, een plek waar het altijd vakantie lijkt. BAAI is een fijne spot aan het water waar je bootjes aan kunt leggen (en huren) en kunt genieten van muziek, spelletjes en lekker eten.\n\nBAAI is een hotspot waar iedereen terecht kan en iets kan beleven dat bij hem of haar past. Het is perfect voor gezelschappen, maar je komt er ook lekker tot rust onder het genot van een drankje. Ieder seizoen wordt BAAI getransformeerd in een echte 'seizoenshotspot'. Van iglo's in de winter tot een zonnig terras in de zomer."
-                    },
+                        "en": "Do you want to go out on the water? Then moor at BAAI, a place where it always seems like a holiday. BAAI is a nice spot on the water where you can moor (and rent) boats and enjoy music, games, and good food. \n\nBAAI is a hotspot where everyone can go and experience something that suits them. It is perfect for groups, but you can also relax while enjoying a drink. Every season BAAI is transformed into a real 'seasonal hotspot'. From igloos in the winter to a sunny terrace in the summer.",
+                        "nl": "Mocht je het water op gaan, leg dan vooral even aan bij BAAI, een plek waar het altijd vakantie lijkt. BAAI is een fijne spot aan het water waar je je bootje aan kunt leggen (en huren) en kunt genieten van muziek, spelletjes en lekker eten. \n\nBAAI is een plek waar iedereen iets kan beleven wat bij hem of haar past. Het is perfect voor gezelschappen, maar je komt er ook lekker tot rust onder het genot van een drankje. Ieder seizoen wordt BAAI getransformeerd in een echte ‘seizoenshotspot’. Van iglo’s in de winter tot een zonnig terras in de zomer."
+                     },
+                    "openHours": {
+                        "en": "February to March open on request \n\nFrom March regular opening hours ",
+                        "nl": "Februari t/m Maart: Geopend op aanvraag \n\n(Vanaf eind maart weer regulier geopend. De openingstijden volgen.)"
+                     },
                     "thumbnails": [
-                        "https://assets.citynavigator.nl/odp-breda/image/baai-26jun2020-11-verkleind_216819861.jpg"
+                        "https://assets.citynavigator.nl/odp-breda/image/baai_2442833005.jpg"
                     ],
                     "address": "Markkade 1AB",
                     "city": "Breda",
+                    "postalCode": "4915 HJ",
                     "website": "https://baaibreda.nl",
                     "labels": [
-                        "activeAndFun",
-                        "foodAndDrink"
+                        "foodAndDrink",
+                        "activeAndFun"
                     ]
                 },
                 {
                     "title": "Brandpunt",
-                    "type": "food",
+                    "type": "shop",
                     "id": "cd239970-54d5-46df-ab85-9196df80dd3a",
                     "color": "gold",
                     "lat": 51.5894636,
                     "long": 4.7754084,
                     "description": {
-                        "en": "Brandpunt is a cool concept store in Breda, with a dynamic mix of coffee and creativity. All kinds of creative makers offer their jewelry, original utensils, and decorations here. The products from their own laser cutter are also sold here. You can also enjoy a delicious cup of coffee or lunch here.\n\nIt is also a place where creative entrepreneurs work and join forces. Brandpunt also rents out workspaces and you can hold meetings in an inspiring environment in the center of Breda.",
-                        "nl": "Brandpunt is een toffe conceptstore in Breda, met een dynamische mix van koffie en creativiteit. Hier bieden allerlei creatieve makers hun sieraden, originele gebruiksvoorwerpen en decoraties aan. Ook de producten uit de eigen lasersnijderij worden hier verkocht. Daarnaast geniet je hier van een heerlijke kop koffie of lunch.\n\nHet is ook een plek waar creatieve ondernemers werken en hun krachten bundelen. Brandpunt verhuurt ook werkruimtes en je kunt er vergaderen in een inspirerende omgeving in het centrum van Breda."
-                    },
+                        "en": "Brandpunt is a cool concept store in Breda, with a dynamic mix of coffee and creativity. All kinds of creative makers offer their jewelry, original utensils, and decorations here. The products from their own laser cutter are also sold here. You can also enjoy a delicious cup of coffee or lunch here. \n\nIt is also a place where creative entrepreneurs work and join forces. Brandpunt also rents out workspaces and you can hold meetings in an inspiring environment in the center of Breda.",
+                        "nl": "Brandpunt is een toffe conceptstore in Breda, met een dynamische mix van koffie en creativiteit. Hier bieden allerlei creatieve makers hun sieraden, originele gebruiksvoorwerpen en decoraties aan en je vindt hier ook producten uit de eigen lasersnijderij. Daarnaast geniet je hier van een heerlijke kop koffie of lunch. \n\nHet is ook een plek waar creatieve ondernemers werken en hun krachten bundelen. Brandpunt verhuurt ook werkruimtes en je kunt er vergaderen in een inspirerende omgeving in het centrum van Breda."
+                     },
+                    "openHours": {
+                        "en": "Monday to Friday: 09:00 - 17:30 \n\nSaturday: 11:00 - 17:00 \n\nSunday: Closed",
+                        "nl": "Maandag t/m Vrijdag: 09:00 - 17:30  \n\nZaterdag: 11:00 - 17:00  \n\nZondag: Gesloten"
+                     },
                     "thumbnails": [
-                        "https://assets.citynavigator.nl/odp-breda/image/brandpunt-medium_2229625387.jpg"
+                        "https://assets.citynavigator.nl/odp-breda/image/brandpunt_2120241882.jpg"
                     ],
                     "website": "https://www.brandpuntbreda.nl/",
                     "address": "Reigerstraat 16",
                     "city": "Breda",
+                    "postalCode": "4811 XB",
                     "labels": [
-                        "foodAndDrink",
-                        "shopping"
+                        "shopping",
+                        "foodAndDrink"
                     ]
                 },
                 {
@@ -895,18 +948,23 @@
                     "lat": 51.5978758,
                     "long": 4.7831451,
                     "description": {
-                        "en": "A Breda brewery that stands for innovation, balance, creativity, but certainly also for transparency (except for the clarity of some beers). This is all reflected in the taste of the beer, the labels, but also certainly in the way the brewery operates. A place where you can go for guided tours, tastings, or a nice beer in the brewery café or on the sunny terrace.\n\nThe beer is brewed according to the slogan ‘Beer for Thought’. By this they mean creating flavours, colors, and smells in the beer that encourage the drinker to think about what caused this. Curious about their beers? Be sure to step inside!",
-                        "nl": "Een Bredase brouwerij die staat voor innovatie, balans, creativiteit maar ook zeker voor transparantie (op de helderheid van sommige bieren na). Dit komt allemaal terug in de smaak van het bier, de etiketten maar ook zeker door de manier van handelen door de brouwerij. Een plek waar je terecht kunt voor rondleidingen, proeverijen of een lekker biertje in het brouwcafé of het zonnige terras.\n\nHet bier wordt gebrouwen volgens de slogan ‘Beer for Thought’. Hiermee doelen ze op het creëren van smaken, kleuren en geuren in het bier die de drinker aanzet tot denken waar dit door ontstaan is. Benieuwd naar hun bieren? Stap vooral eens binnen!"
-                    },
+                        "en": "Frontaal is a Breda brewery that stands for innovation, balance, creativity and transparency. This is all reflected in the taste of the beer, the labels, but also definitely in the brewery's way of doing things. A place to go for tours, tastings or a nice beer in the brew pub or sunny terrace. \n\nWith the slogan 'Beer for Thought', Frontaal Brewery characterises itself by brewing beers with thought. With each beer, deep thought goes into the flavour, colour and aroma of the beer. Quality always comes first. Whether it's recognising flavours, speculating on the brewing process or the philosophical thoughts that arise at all when consuming beer, the thoughts will speak for themselves. \n\nThe latest and freshest beers can be found in the brewery's tasting room/brew pub. In the former Faam premises, an old industrial building, you will also find the shop for take-home beers and merchandise. The place is always lovely. In winter, the stove is on flame and in summer, sunbeams warm the terrace. In addition, the brew pub offers tastings that expand your knowledge about beers, the brewing process and/or Frontaal. Curious about something other than the standard styles of beers? Or do you just want to enjoy a pleasant evening? Then be sure to pop in.",
+                        "nl": "Frontaal is een Bredase brouwerij die staat voor innovatie, balans, creativiteit en transparantie. Dit komt allemaal terug in de smaak van het bier, de etiketten, maar ook zeker in de manier van handelen door de brouwerij. Een plek waar je terecht kunt voor rondleidingen, proeverijen of een lekker biertje in het brouwcafé of het zonnige terras. \n\nMet de slogan 'Beer for Thought' kenmerkt Brouwerij Frontaal zich door het brouwen van bieren met gedachtegoed. Bij elk bier wordt diep gebroed op smaak, kleur en geur van het bier. Kwaliteit staat altijd voorop. Of het nu gaat om herkenning van smaken, speculeren over het brouwproces of de filosofische gedachtes die überhaupt ontstaan bij het consumeren van bier, de gedachtes zullen voor zichzelf spreken. \n\nDe nieuwste en meest verse bieren vind je in het proeflokaal/brouwcafé van de brouwerij. In het voormalige pand van de Faam, een oud industrieel pand, vind je ook de winkel voor de mee-naar-huis bieren en merchandise. Het is hier altijd heerlijk toeven. In de winter staat de kachel op standje vlammen en in de zomer warmen zonnestralen het terras op. Daarnaast biedt het brouwcafé proeverijen aan waarmee je je kennis over bieren, het brouwproces en/of Frontaal vergroot.​ Benieuwd naar iets anders dan de standaard stijlen bieren? Of wil je gewoon een gezellige avond beleven? Stap dan vooral eens binnen."
+                     },
+                    "openHours": {
+                        "en": "Monday to Tuesday: Closed \n\nWednesday: 16:00 - 23:00 \n\nThursday to Sunday: 14:00 - 23:00 ",
+                        "nl": "Maandag t/m Dinsdag: Gesloten \n\nWoensdag: 16:00 - 23:00 \n\nDonderdag t/m Zondag: 14:00 - 23:00"
+                     },
                     "thumbnails": [
-                        "https://assets.citynavigator.nl/odp-breda/image/zeecontainer_1364371956.jpg"
+                        "https://assets.citynavigator.nl/odp-breda/image/frontaal_4115027376.jpg"
                     ],
                     "address": "Liniestraat 31",
                     "city": "Breda",
+                    "postalCode": "4816 BG",
                     "website": "https://frontaalbrewingcompany.com",
                     "labels": [
-                        "activeAndFun",
-                        "foodAndDrink"
+                        "foodAndDrink",
+                        "activeAndFun"
                     ]
                 },
                 {
@@ -917,18 +975,24 @@
                     "lat": 51.5990158,
                     "long": 4.7666235,
                     "description": {
-                        "en": "STEK is a breeding ground for creative entrepreneurs in Breda's Havenkwartier. This is the place for new ideas, sustainable initiatives, working with your hands and above all a lot of passion. Sustainability, circularity, and cooperation are of paramount importance here. The site has about 25 'Plugs', each with its own story.\n\nFor example, Plastiek makes new products from waste plastic and Bredase Bomen gives felled trees back to the neighborhood in the form of street furniture. There are several places where you can settle down for an honest coffee, local beer, or tasty lunch. Children also have a great time at STEK and guided tours and STEK markets are regularly organized.",
-                        "nl": "STEK is een broedplaats voor creatieve ondernemers in het Bredase Havenkwartier. Dit is dé plek van nieuwe ideeën, duurzame initiatieven, met je handen werken en vooral heel veel passie. Duurzaamheid, circulariteit en samenwerking staan hier hoog in het vaandel. Het terrein telt zo’n 25 ‘Stekkers’ met ieder een eigen verhaal.\n\nZo maakt Plastiek van afvalplastic nieuwe producten en Bredase Bomen geeft gevelde bomen terug aan de wijk in de vorm van straatmeubilair. Er zijn verschillende plekken waar je neerstrijkt voor een eerlijke koffie, lokaal biertje of lekkere lunch. Ook kinderen vermaken zich prima op STEK en er worden regelmatig rondleidingen en STEKmarkten georganiseerd."
-                    },
+                        "en": "STEK is an incubator for creative and future-oriented entrepreneurs in Breda's Havenkwartier. This is the place for new ideas, sustainable initiatives, working with your hands and, above all, a lot of passion. Sustainability, circularity and cooperation are paramount here. The site has some 30 'Stekkers', each with its own story. \n\nPlaSTiEk, for instance, turns waste plastic into new products and STAM gives indoor fabrics from army tents a second life. There are several places where you can settle down for an honest coffee, local beer, organic wine or tasty lunch. Children also have a great time at STEK and guided tours and STEK markets are organised regularly.",
+                        "nl": "STEK is een broedplaats voor creatieve en toekomstbewuste ondernemers in het Bredase Havenkwartier. Dit is dé plek van nieuwe ideeën, duurzame initiatieven, met je handen werken en vooral heel veel passie. Duurzaamheid, circulariteit en samenwerking staan hier hoog in het vaandel. Het terrein telt zo’n 30 ‘Stekkers’ met ieder een eigen verhaal. \n\nZo maakt PlaSTiEk van afvalplastic nieuwe producten en geeft STAM indoor stoffen van bijvoorbeeld legertenden een tweede leven. Er zijn verschillende plekken waar je neerstrijkt voor een eerlijke koffie, lokaal biertje, biologisch wijntje of lekkere lunch. Ook kinderen vermaken zich prima op STEK en er worden regelmatig rondleidingen en STEKmarkten georganiseerd."
+                     },
+                    "openHours": {
+                        "en": "Monday: Closed \n\nTuesday to Sunday: 10:30 - 18:00 ",
+                        "nl": "Maandag: Gesloten \n\nDinsdag t/m Zondag: 10:30 - 18:00"
+                     },
                     "thumbnails": [
-                        "https://assets.citynavigator.nl/odp-breda/image/breda-explore-havenkwartier-21_1885183460.jpg"
+                        "https://assets.citynavigator.nl/odp-breda/image/stek_3761087023.jpg"
                     ],
-                    "address": "Veilingkade 9a",
+                    "address": "Veilingkade 9A",
                     "city": "Breda",
+                    "postalCode": "4815 HC",
                     "website": "https://stekbreda.nl",
                     "labels": [
-                        "culture",
-                        "foodAndDrink"
+                        "activeAndFun",
+                        "foodAndDrink",
+                        "shopping"
                     ]
                 },
                 {
@@ -939,14 +1003,19 @@
                     "lat": 51.5994363,
                     "long": 4.7648965,
                     "description": {
-                        "en": "Pier15 is the paradise for skaters and has one of the leading skate parks in Europe. But it is also a hotbed for culture! With weekly cultural events, festivals, and a skate school, Pier15 is a place where you can continue to challenge and develop yourself. Enjoy the casual atmosphere on the terrace and enjoy everything Pier15 has to offer.\n\nAt Pier15 you will find, among other things, the indoor skate park, an outdoor bowl, a free run park and a basketball court. You can also enjoy performances by bands, film premieres, photo exhibitions, quirky performance evenings and a good cup of coffee or a nice special beer in the bar or on the sunny terrace.",
-                        "nl": "Pier15 is hét paradijs voor skaters en heeft één van de meest toonaangevende skateparken van Europa. Maar het is ook een broeinest voor cultuur! Met wekelijks culturele evenementen, festivals en een skateschool is Pier15 een plek waar je jezelf blijft uitdagen en ontwikkelen. Geniet van de ongedwongen sfeer op het terras en geniet van alles wat Pier15 te bieden heeft.\n\nBij Pier15 vind je er o.a. het indoor skatepark, een buitenbowl, een freerunpark en een basketbalveld. Ook kun je er genieten van optredens van bandjes, filmpremières, foto-exposities, eigenzinnige performance avonden en een goede kop koffie of een lekker speciaal biertje in de bar of op het zonnige terras."
-                    },
+                        "en": "Pier15 is the paradise for skaters and has one of the leading skate parks in Europe. But it is also a hotbed for culture! With weekly cultural events, festivals, and a skate school, Pier15 is a place where you can continue to challenge and develop yourself. Enjoy the casual atmosphere on the terrace and enjoy everything Pier15 has to offer. /n/nAt Pier15 you will find, among other things, the indoor skate park, an outdoor bowl, a free run park and a basketball court. You can also enjoy performances by bands, film premieres, photo exhibitions, quirky performance evenings and a good cup of coffee or a nice special beer in the bar or on the sunny terrace.",
+                        "nl": "Pier15 is hét paradijs voor skaters en heeft één van de meest toonaangevende skateparken van Europa. Maar het is ook een broeinest voor cultuur! Met wekelijks culturele evenementen, festivals en een skateschool is Pier15 een plek waar je jezelf blijft uitdagen en ontwikkelen. Geniet van de ongedwongen sfeer op het terras en van alles wat Pier15 te bieden heeft. \n\nBij Pier15 vind je o.a. het indoor skatepark, een buitenbowl, een freerunpark en een basketbalveld. Ook kun je er genieten van optredens van bandjes, filmpremières, foto-exposities en eigenzinnige performance avonden, maar ook van een goede kop koffie of een lekker speciaal biertje in de bar of op het zonnige terras."
+                     },
+                    "openHours": {
+                        "en": "Skatepark \n\nMonday to Tuesday: Closed \n\nWednesday to Friday: 15:00 - 23:00 \n\nSaturday: 14:00 - 23:00 \n\nSunday: 14:00 - 18:00 \n\n \n\nCafé \n\nMonday to Tuesday: Closed \n\nWednesday: 15:00 - 23:00 \n\nThursday: 15:00 - 00:00 \n\nFriday: 15:00 - 02:00 \n\nSaturday: 12:00 - 02:00 \n\nSunday: 12:00 - 18:00 ",
+                        "nl": "Skatepark \n\nMaandag tot dinsdag: Gesloten \n\nWoensdag t/m vrijdag: 15:00 - 23:00 \n\nZaterdag: 14:00 - 23:00 \n\nZondag: 14:00 - 18:00 \n\n \n\nCafé \n\nMaandag t/m dinsdag: Gesloten \n\nWoensdag: 15:00 - 23:00 \n\nDonderdag: 15:00 - 00:00 \n\nVrijdag: 15:00 - 02:00 \n\nZaterdag: 12:00 - 02:00 \n\nZondag: 12:00 - 18:00 "
+                     },
                     "thumbnails": [
                         "https://assets.citynavigator.nl/odp-breda/image/breda-explore-havenkwartier-5-medium_3916211616.jpg"
                     ],
                     "address": "Veilingkade 12",
                     "city": "Breda",
+                    "postalCode": "4815 HC",
                     "website": "https://pier15.nl",
                     "labels": [
                         "activeAndFun",
@@ -962,14 +1031,20 @@
                     "lat": 51.6005996,
                     "long": 4.7674736,
                     "description": {
-                        "en": "You will find BRACK in the old factory halls of Machinefabriek Backer and Rueb. A creative and casual place in an industrial setting by the water. Here you can taste (many) innovative beers and enjoy honest and delicious food with a responsible and original starting point.\n\nBRACK beer construction is a collaboration between Brewery Bliksem, Ramses Bier and Bredase Bomen. Something is regularly organized such as festivals, beer tastings or other events. A wonderful place on the water where they serve beers that cannot always be placed in a box.",
-                        "nl": "In de oude fabriekshallen van Machinefabriek Backer en Rueb vind je BRACK. Een creatieve en ongedwongen plek in een industrieel decor aan het water. Hier kun je (veel) vernieuwende bieren proeven en genieten van (h)eerlijk eten met een verantwoord en origineel uitgangspunt. \n\nBRACK beer construction is een samenwerking tussen Brouwerij Bliksem, Ramses Bier en Bredase Bomen. Er wordt regelmatig iets georganiseerd zoals festivals, bierproeverijen of andere evenementen. Een heerlijke plek aan het water waar ze bieren schenken die niet altijd in een hokje te plaatsen zijn."
-                    },
+                        "en": "You will find BRACK in the old factory halls of Machinefabriek Backer and Rueb. A creative and casual place in an industrial setting by the water. Here you can taste (many) innovative beers and enjoy honest and delicious food with a responsible and original starting point. \n\nBRACK beer construction is a collaboration between Brewery Bliksem, Ramses Bier and Bredase Bomen. Something is regularly organized such as festivals, beer tastings or other events. A wonderful place on the water where they serve beers that cannot always be placed in a box.",
+                        "nl": "In de oude fabriekshallen van Machinefabriek Backer en Rueb vind je BRACK. Een creatieve en ongedwongen plek in een industrieel decor aan het water. Hier kun je (veel) vernieuwende bieren proeven en genieten van (h)eerlijk eten met een verantwoord en origineel uitgangspunt. \n\nBRACK beer construction is een samenwerking tussen Brouwerij Bliksem, Ramses Bier en Bredase Bomen. Er worden hier regelmatig festivals, bierproeverijen of andere evenementen georganiseerd. Een heerlijke plek aan het water waar ze bieren tappen die niet altijd in een hokje te plaatsen zijn. \n\n"
+                     },
+                    "openHours": {
+                        "en": "Monday to Wednesday: Closed \n\nThursday to Friday: 16:00 - 00:00 \n\nSaturday: 12:00 - 00:00 \n\nSunday: 12:00 - 22:00 ",
+                        "nl": "Maandag t/m Woensdag: Gesloten \n\nDonderdag t/m Vrijdag: 16:00 - 00:00 \n\nZaterdag: 12:00 - 00:00 \n\nZondag: 12:00 - 22:00  "
+                     },
                     "thumbnails": [
-                        "https://assets.citynavigator.nl/odp-breda/image/brack-11_469134640.jpg"
+                        "https://assets.citynavigator.nl/odp-breda/image/brack-11_469134640.jpg",
+                        "https://assets.citynavigator.nl/odp-breda/image/brack1_3746056704.jpeg"
                     ],
-                    "address": "Speelhuislaan 173a",
+                    "address": "Speelhuislaan 173A",
                     "city": "Breda",
+                    "postalCode": "4815 CD",
                     "website": "http://www.brackbreda.nl",
                     "labels": [
                         "foodAndDrink"

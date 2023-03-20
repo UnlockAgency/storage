@@ -949,7 +949,7 @@
                     "long": 4.7831451,
                     "description": {
                         "en": "Frontaal is a Breda brewery that stands for innovation, balance, creativity and transparency. This is all reflected in the taste of the beer, the labels, but also definitely in the brewery's way of doing things. A place to go for tours, tastings or a nice beer in the brew pub or sunny terrace. \n\nWith the slogan 'Beer for Thought', Frontaal Brewery characterises itself by brewing beers with thought. With each beer, deep thought goes into the flavour, colour and aroma of the beer. Quality always comes first. Whether it's recognising flavours, speculating on the brewing process or the philosophical thoughts that arise at all when consuming beer, the thoughts will speak for themselves. \n\nThe latest and freshest beers can be found in the brewery's tasting room/brew pub. In the former Faam premises, an old industrial building, you will also find the shop for take-home beers and merchandise. The place is always lovely. In winter, the stove is on flame and in summer, sunbeams warm the terrace. In addition, the brew pub offers tastings that expand your knowledge about beers, the brewing process and/or Frontaal. Curious about something other than the standard styles of beers? Or do you just want to enjoy a pleasant evening? Then be sure to pop in.",
-                        "nl": "Frontaal is een Bredase brouwerij die staat voor innovatie, balans, creativiteit en transparantie. Dit komt allemaal terug in de smaak van het bier, de etiketten, maar ook zeker in de manier van handelen door de brouwerij. Een plek waar je terecht kunt voor rondleidingen, proeverijen of een lekker biertje in het brouwcafé of het zonnige terras. \n\nMet de slogan 'Beer for Thought' kenmerkt Brouwerij Frontaal zich door het brouwen van bieren met gedachtegoed. Bij elk bier wordt diep gebroed op smaak, kleur en geur van het bier. Kwaliteit staat altijd voorop. Of het nu gaat om herkenning van smaken, speculeren over het brouwproces of de filosofische gedachtes die überhaupt ontstaan bij het consumeren van bier, de gedachtes zullen voor zichzelf spreken. \n\nDe nieuwste en meest verse bieren vind je in het proeflokaal/brouwcafé van de brouwerij. In het voormalige pand van de Faam, een oud industrieel pand, vind je ook de winkel voor de mee-naar-huis bieren en merchandise. Het is hier altijd heerlijk toeven. In de winter staat de kachel op standje vlammen en in de zomer warmen zonnestralen het terras op. Daarnaast biedt het brouwcafé proeverijen aan waarmee je je kennis over bieren, het brouwproces en/of Frontaal vergroot.​ Benieuwd naar iets anders dan de standaard stijlen bieren? Of wil je gewoon een gezellige avond beleven? Stap dan vooral eens binnen."
+                        "nl": "Frontaal is een Bredase brouwerij die staat voor innovatie, balans, creativiteit en transparantie. Dit komt allemaal terug in de smaak van het bier, de etiketten, maar ook zeker in de manier van handelen door de brouwerij. Een plek waar je terecht kunt voor rondleidingen, proeverijen of een lekker biertje in het brouwcafé of het zonnige terras. \n\nMet de slogan 'Beer for Thought' kenmerkt Brouwerij Frontaal zich door het brouwen van bieren met gedachtegoed. Bij elk bier wordt diep gebroed op smaak, kleur en geur van het bier. Kwaliteit staat altijd voorop. Of het nu gaat om herkenning van smaken, speculeren over het brouwproces of de filosofische gedachtes die überhaupt ontstaan bij het consumeren van bier, de gedachtes zullen voor zichzelf spreken. \n\nDe nieuwste en meest verse bieren vind je in het proeflokaal/brouwcafé van de brouwerij. In het voormalige pand van de Faam, een oud industrieel pand, vind je ook de winkel voor de mee-naar-huis bieren en merchandise. Het is hier altijd heerlijk toeven. In de winter staat de kachel op standje vlammen en in de zomer warmen zonnestralen het terras op. Daarnaast biedt het brouwcafé proeverijen aan waarmee je je kennis over bieren, het brouwproces en/of Frontaal vergroot. Benieuwd naar iets anders dan de standaard stijlen bieren? Of wil je gewoon een gezellige avond beleven? Stap dan vooral eens binnen."
                      },
                     "openHours": {
                         "en": "Monday to Tuesday: Closed \n\nWednesday: 16:00 - 23:00 \n\nThursday to Sunday: 14:00 - 23:00 ",
@@ -969,7 +969,7 @@
                 },
                 {
                     "title": "STEK",
-                    "type": "entertainment",
+                    "type": "culture",
                     "id": "0013bbf1-5eaf-4b0c-a526-b82e3cfde30f",
                     "color": "orange",
                     "lat": 51.5990158,
@@ -990,6 +990,7 @@
                     "postalCode": "4815 HC",
                     "website": "https://stekbreda.nl",
                     "labels": [
+                        "culture",
                         "activeAndFun",
                         "foodAndDrink",
                         "shopping"

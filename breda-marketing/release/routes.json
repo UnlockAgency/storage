@@ -1,349 +1,1055 @@
-
 {
     "routes": [
         {
             "id": 0,
             "route": [
                 {
-                    "lat": 51.59206,
-                    "long": 4.78075
+                    "lat": "51.592040000",
+                    "long": "4.780710000",
+                    "ele": "6.000"
                 },
                 {
-                    "lat": 51.59239,
-                    "long": 4.78067
+                    "lat": "51.592170000",
+                    "long": "4.780730000",
+                    "ele": "6.000"
                 },
                 {
-                    "lat": 51.59240,
-                    "long": 4.78085
+                    "lat": "51.592300000",
+                    "long": "4.780870000",
+                    "ele": "6.000"
                 },
                 {
-                    "lat": 51.59241,
-                    "long": 4.78110
+                    "lat": "51.592400000",
+                    "long": "4.781110000",
+                    "ele": "6.000"
                 },
                 {
-                    "lat": 51.59240,
-                    "long": 4.78127
+                    "lat": "51.592410000",
+                    "long": "4.781290000",
+                    "ele": "6.000"
                 },
                 {
-                    "lat": 51.59237,
-                    "long": 4.78138
+                    "lat": "51.592280000",
+                    "long": "4.781290000",
+                    "ele": "5.000"
                 },
                 {
-                    "lat": 51.59203,
-                    "long": 4.78137
+                    "lat": "51.592280000",
+                    "long": "4.781320000",
+                    "ele": "5.000"
                 },
                 {
-                    "lat": 51.59140,
-                    "long": 4.78127
+                    "lat": "51.592130000",
+                    "long": "4.781390000",
+                    "ele": "5.000"
                 },
                 {
-                    "lat": 51.59137,
-                    "long": 4.78145
+                    "lat": "51.591420000",
+                    "long": "4.781320000",
+                    "ele": "5.000"
                 },
                 {
-                    "lat": 51.59100,
-                    "long": 4.78126
+                    "lat": "51.591420000",
+                    "long": "4.781460000",
+                    "ele": "5.000"
                 },
                 {
-                    "lat": 51.59031,
-                    "long": 4.78218
+                    "lat": "51.591030000",
+                    "long": "4.781270000",
+                    "ele": "5.000"
                 },
                 {
-                    "lat": 51.59007,
-                    "long": 4.78176
+                    "lat": "51.590300000",
+                    "long": "4.782190000",
+                    "ele": "5.000"
                 },
                 {
-                    "lat": 51.58982,
-                    "long": 4.78123
+                    "lat": "51.589920000",
+                    "long": "4.781450000",
+                    "ele": "5.000"
                 },
                 {
-                    "lat": 51.58968,
-                    "long": 4.78084
+                    "lat": "51.589790000",
+                    "long": "4.781150000",
+                    "ele": "6.000"
                 },
                 {
-                    "lat": 51.58956,
-                    "long": 4.78035
+                    "lat": "51.589550000",
+                    "long": "4.780330000",
+                    "ele": "6.000"
                 },
                 {
-                    "lat": 51.58945,
-                    "long": 4.77984
+                    "lat": "51.589480000",
+                    "long": "4.780280000",
+                    "ele": "7.000"
                 },
                 {
-                    "lat": 51.58949,
-                    "long": 4.77970
+                    "lat": "51.589400000",
+                    "long": "4.779880000",
+                    "ele": "7.000"
                 },
                 {
-                    "lat": 51.58960,
-                    "long": 4.77947
+                    "lat": "51.589400000",
+                    "long": "4.779820000",
+                    "ele": "7.000"
                 },
                 {
-                    "lat": 51.58966,
-                    "long": 4.77930
+                    "lat": "51.589640000",
+                    "long": "4.779330000",
+                    "ele": "7.000"
                 },
                 {
-                    "lat": 51.58968,
-                    "long": 4.77911
+                    "lat": "51.589650000",
+                    "long": "4.779140000",
+                    "ele": "7.000"
                 },
                 {
-                    "lat": 51.58969,
-                    "long": 4.77870
+                    "lat": "51.589660000",
+                    "long": "4.778670000",
+                    "ele": "8.000"
                 },
                 {
-                    "lat": 51.58921,
-                    "long": 4.77882
+                    "lat": "51.589630000",
+                    "long": "4.778670000",
+                    "ele": "8.000"
                 },
                 {
-                    "lat": 51.58904,
-                    "long": 4.77799
+                    "lat": "51.589390000",
+                    "long": "4.778770000",
+                    "ele": "8.000"
                 },
                 {
-                    "lat": 51.58848,
-                    "long": 4.77835
+                    "lat": "51.589400000",
+                    "long": "4.778790000",
+                    "ele": "8.000"
                 },
                 {
-                    "lat": 51.58832,
-                    "long": 4.77852
+                    "lat": "51.589220000",
+                    "long": "4.778880000",
+                    "ele": "8.000"
                 },
                 {
-                    "lat": 51.58812,
-                    "long": 4.77822
+                    "lat": "51.589170000",
+                    "long": "4.778650000",
+                    "ele": "8.000"
                 },
                 {
-                    "lat": 51.58796,
-                    "long": 4.77788
+                    "lat": "51.589030000",
+                    "long": "4.777990000",
+                    "ele": "7.000"
                 },
                 {
-                    "lat":51.58752,
-                    "long": 4.77678
+                    "lat": "51.589020000",
+                    "long": "4.777970000",
+                    "ele": "7.000"
                 },
                 {
-                    "lat":51.58671,
-                    "long": 4.77743
+                    "lat": "51.588530000",
+                    "long": "4.778310000",
+                    "ele": "7.000"
                 },
                 {
-                    "lat":51.58637,
-                    "long": 4.77769
+                    "lat": "51.588330000",
+                    "long": "4.778500000",
+                    "ele": "8.000"
                 },
                 {
-                    "lat": 51.58643,
-                    "long": 4.77799
+                    "lat": "51.588190000",
+                    "long": "4.778340000",
+                    "ele": "8.000"
                 },
                 {
-                    "lat": 51.58633,
-                    "long": 4.77805
+                    "lat": "51.588090000",
+                    "long": "4.778180000",
+                    "ele": "8.000"
                 },
                 {
-                    "lat": 51.58629,
-                    "long": 4.77793
+                    "lat": "51.587790000",
+                    "long": "4.777490000",
+                    "ele": "8.000"
                 },
                 {
-                    "lat": 51.58626,
-                    "long": 4.77791
+                    "lat": "51.587730000",
+                    "long": "4.777520000",
+                    "ele": "8.000"
                 },
                 {
-                    "lat": 51.58593,
-                    "long": 4.77798
+                    "lat": "51.587790000",
+                    "long": "4.777490000",
+                    "ele": "9.000"
                 },
                 {
-                    "lat": 51.58563,
-                    "long": 4.77810
+                    "lat": "51.587510000",
+                    "long": "4.776770000",
+                    "ele": "9.000"
                 },
                 {
-                    "lat": 51.58567,
-                    "long": 4.77904
+                    "lat": "51.586560000",
+                    "long": "4.777520000",
+                    "ele": "9.000"
+                },
+                {
+                    "lat": "51.586370000",
+                    "long": "4.777660000",
+                    "ele": "9.000"
+                },
+                {
+                    "lat": "51.586430000",
+                    "long": "4.777980000",
+                    "ele": "9.000"
+                },
+                {
+                    "lat": "51.586330000",
+                    "long": "4.778030000",
+                    "ele": "9.000"
+                },
+                {
+                    "lat": "51.586300000",
+                    "long": "4.777870000",
+                    "ele": "9.000"
+                },
+                {
+                    "lat": "51.585630000",
+                    "long": "4.778090000",
+                    "ele": "9.000"
+                },
+                {
+                    "lat": "51.585610000",
+                    "long": "4.777980000",
+                    "ele": "8.000"
+                },
+                {
+                    "lat": "51.585630000",
+                    "long": "4.778090000",
+                    "ele": "8.000"
+                },
+                {
+                    "lat": "51.585670000",
+                    "long": "4.778900000",
+                    "ele": "7.000"
+                },
+                {
+                    "lat": "51.584800000",
+                    "long": "4.778480000",
+                    "ele": "7.000"
+                },
+                {
+                    "lat": "51.584040000",
+                    "long": "4.778110000",
+                    "ele": "7.000"
+                },
+                {
+                    "lat": "51.583900000",
+                    "long": "4.777250000",
+                    "ele": "6.000"
+                },
+                {
+                    "lat": "51.583890000",
+                    "long": "4.777170000",
+                    "ele": "7.000"
+                },
+                {
+                    "lat": "51.584050000",
+                    "long": "4.777090000",
+                    "ele": "7.000"
+                },
+                {
+                    "lat": "51.586080000",
+                    "long": "4.776330000",
+                    "ele": "7.000"
+                },
+                {
+                    "lat": "51.586760000",
+                    "long": "4.776030000",
+                    "ele": "7.000"
+                },
+                {
+                    "lat": "51.587060000",
+                    "long": "4.775850000",
+                    "ele": "7.000"
+                },
+                {
+                    "lat": "51.587010000",
+                    "long": "4.775620000",
+                    "ele": "7.000"
+                },
+                {
+                    "lat": "51.586900000",
+                    "long": "4.774890000",
+                    "ele": "7.000"
+                },
+                {
+                    "lat": "51.586890000",
+                    "long": "4.774460000",
+                    "ele": "7.000"
+                },
+                {
+                    "lat": "51.586950000",
+                    "long": "4.773880000",
+                    "ele": "6.000"
+                },
+                {
+                    "lat": "51.586980000",
+                    "long": "4.773750000",
+                    "ele": "6.000"
+                },
+                {
+                    "lat": "51.587200000",
+                    "long": "4.773420000",
+                    "ele": "5.000"
+                },
+                {
+                    "lat": "51.587490000",
+                    "long": "4.773110000",
+                    "ele": "5.000"
+                },
+                {
+                    "lat": "51.587590000",
+                    "long": "4.773040000",
+                    "ele": "5.000"
+                },
+                {
+                    "lat": "51.587930000",
+                    "long": "4.772990000",
+                    "ele": "5.000"
+                },
+                {
+                    "lat": "51.588140000",
+                    "long": "4.772960000",
+                    "ele": "4.000"
+                },
+                {
+                    "lat": "51.588180000",
+                    "long": "4.772360000",
+                    "ele": "4.000"
+                },
+                {
+                    "lat": "51.588290000",
+                    "long": "4.771700000",
+                    "ele": "5.000"
+                },
+                {
+                    "lat": "51.588300000",
+                    "long": "4.771670000",
+                    "ele": "5.000"
+                },
+                {
+                    "lat": "51.588490000",
+                    "long": "4.771770000",
+                    "ele": "5.000"
+                },
+                {
+                    "lat": "51.589320000",
+                    "long": "4.772780000",
+                    "ele": "5.000"
+                },
+                {
+                    "lat": "51.589790000",
+                    "long": "4.773270000",
+                    "ele": "6.000"
+                },
+                {
+                    "lat": "51.589770000",
+                    "long": "4.773360000",
+                    "ele": "6.000"
+                },
+                {
+                    "lat": "51.589570000",
+                    "long": "4.774040000",
+                    "ele": "7.000"
+                },
+                {
+                    "lat": "51.589360000",
+                    "long": "4.774430000",
+                    "ele": "7.000"
+                },
+                {
+                    "lat": "51.589350000",
+                    "long": "4.774570000",
+                    "ele": "7.000"
+                },
+                {
+                    "lat": "51.589380000",
+                    "long": "4.775260000",
+                    "ele": "7.000"
+                },
+                {
+                    "lat": "51.589400000",
+                    "long": "4.775740000",
+                    "ele": "8.000"
+                },
+                {
+                    "lat": "51.589450000",
+                    "long": "4.776150000",
+                    "ele": "8.000"
+                },
+                {
+                    "lat": "51.590280000",
+                    "long": "4.775970000",
+                    "ele": "8.000"
+                },
+                {
+                    "lat": "51.590300000",
+                    "long": "4.775970000",
+                    "ele": "8.000"
+                },
+                {
+                    "lat": "51.590320000",
+                    "long": "4.776260000",
+                    "ele": "7.000"
+                },
+                {
+                    "lat": "51.590290000",
+                    "long": "4.776360000",
+                    "ele": "7.000"
+                },
+                {
+                    "lat": "51.590320000",
+                    "long": "4.776860000",
+                    "ele": "7.000"
+                },
+                {
+                    "lat": "51.590530000",
+                    "long": "4.776870000",
+                    "ele": "7.000"
+                },
+                {
+                    "lat": "51.590610000",
+                    "long": "4.777430000",
+                    "ele": "7.000"
+                },
+                {
+                    "lat": "51.590750000",
+                    "long": "4.778130000",
+                    "ele": "7.000"
+                },
+                {
+                    "lat": "51.590810000",
+                    "long": "4.778360000",
+                    "ele": "7.000"
+                },
+                {
+                    "lat": "51.590890000",
+                    "long": "4.778620000",
+                    "ele": "7.000"
+                },
+                {
+                    "lat": "51.591090000",
+                    "long": "4.779130000",
+                    "ele": "7.000"
+                },
+                {
+                    "lat": "51.591250000",
+                    "long": "4.779440000",
+                    "ele": "7.000"
+                },
+                {
+                    "lat": "51.591350000",
+                    "long": "4.779610000",
+                    "ele": "7.000"
+                },
+                {
+                    "lat": "51.591500000",
+                    "long": "4.779810000",
+                    "ele": "7.000"
+                },
+                {
+                    "lat": "51.591730000",
+                    "long": "4.779990000",
+                    "ele": "7.000"
+                },
+                {
+                    "lat": "51.591970000",
+                    "long": "4.780050000",
+                    "ele": "7.000"
+                },
+                {
+                    "lat": "51.592050000",
+                    "long": "4.780050000",
+                    "ele": "7.000"
+                },
+                {
+                    "lat": "51.592180000",
+                    "long": "4.780000000",
+                    "ele": "6.000"
+                },
+                {
+                    "lat": "51.592340000",
+                    "long": "4.779880000",
+                    "ele": "6.000"
+                },
+                {
+                    "lat": "51.592570000",
+                    "long": "4.779890000",
+                    "ele": "6.000"
+                },
+                {
+                    "lat": "51.592590000",
+                    "long": "4.779730000",
+                    "ele": "5.000"
+                },
+                {
+                    "lat": "51.592870000",
+                    "long": "4.779690000",
+                    "ele": "5.000"
+                },
+                {
+                    "lat": "51.594560000",
+                    "long": "4.779460000",
+                    "ele": "5.000"
+                },
+                {
+                    "lat": "51.594620000",
+                    "long": "4.779450000",
+                    "ele": "5.000"
+                },
+                {
+                    "lat": "51.594720000",
+                    "long": "4.779310000",
+                    "ele": "5.000"
+                },
+                {
+                    "lat": "51.594700000",
+                    "long": "4.778950000",
+                    "ele": "5.000"
+                },
+                {
+                    "lat": "51.594810000",
+                    "long": "4.778930000",
+                    "ele": "5.000"
+                },
+                {
+                    "lat": "51.594920000",
+                    "long": "4.778920000",
+                    "ele": "5.000"
+                },
+                {
+                    "lat": "51.595660000",
+                    "long": "4.778850000",
+                    "ele": "5.000"
+                },
+                {
+                    "lat": "51.595710000",
+                    "long": "4.778810000",
+                    "ele": "5.000"
+                },
+                {
+                    "lat": "51.596040000",
+                    "long": "4.778430000",
+                    "ele": "5.000"
+                },
+                {
+                    "lat": "51.596210000",
+                    "long": "4.778410000",
+                    "ele": "5.000"
+                },
+                {
+                    "lat": "51.596140000",
+                    "long": "4.777650000",
+                    "ele": "5.000"
+                },
+                {
+                    "lat": "51.596300000",
+                    "long": "4.777630000",
+                    "ele": "5.000"
+                },
+                {
+                    "lat": "51.596340000",
+                    "long": "4.777750000",
+                    "ele": "5.000"
+                },
+                {
+                    "lat": "51.596690000",
+                    "long": "4.777850000",
+                    "ele": "4.000"
+                },
+                {
+                    "lat": "51.596720000",
+                    "long": "4.777730000",
+                    "ele": "4.000"
+                },
+                {
+                    "lat": "51.596690000",
+                    "long": "4.777850000",
+                    "ele": "4.000"
+                },
+                {
+                    "lat": "51.596740000",
+                    "long": "4.777860000",
+                    "ele": "3.000"
+                },
+                {
+                    "lat": "51.599890000",
+                    "long": "4.770160000",
+                    "ele": "3.000"
+                },
+                {
+                    "lat": "51.599810000",
+                    "long": "4.770110000",
+                    "ele": "3.000"
+                },
+                {
+                    "lat": "51.600030000",
+                    "long": "4.769650000",
+                    "ele": "3.000"
+                },
+                {
+                    "lat": "51.599980000",
+                    "long": "4.769770000",
+                    "ele": "3.000"
+                },
+                {
+                    "lat": "51.599930000",
+                    "long": "4.769730000",
+                    "ele": "2.000"
+                },
+                {
+                    "lat": "51.598840000",
+                    "long": "4.768640000",
+                    "ele": "2.000"
+                },
+                {
+                    "lat": "51.598770000",
+                    "long": "4.768600000",
+                    "ele": "2.000"
+                },
+                {
+                    "lat": "51.598640000",
+                    "long": "4.768600000",
+                    "ele": "3.000"
+                },
+                {
+                    "lat": "51.598480000",
+                    "long": "4.768290000",
+                    "ele": "3.000"
+                },
+                {
+                    "lat": "51.598520000",
+                    "long": "4.768090000",
+                    "ele": "3.000"
+                },
+                {
+                    "lat": "51.599760000",
+                    "long": "4.765110000",
+                    "ele": "3.000"
+                },
+                {
+                    "lat": "51.599800000",
+                    "long": "4.765160000",
+                    "ele": "3.000"
+                },
+                {
+                    "lat": "51.599840000",
+                    "long": "4.765040000",
+                    "ele": "3.000"
+                },
+                {
+                    "lat": "51.600210000",
+                    "long": "4.765450000",
+                    "ele": "3.000"
+                },
+                {
+                    "lat": "51.600470000",
+                    "long": "4.764830000",
+                    "ele": "3.000"
+                },
+                {
+                    "lat": "51.601460000",
+                    "long": "4.765860000",
+                    "ele": "3.000"
+                },
+                {
+                    "lat": "51.601080000",
+                    "long": "4.766790000",
+                    "ele": "3.000"
+                },
+                {
+                    "lat": "51.601070000",
+                    "long": "4.766960000",
+                    "ele": "3.000"
+                },
+                {
+                    "lat": "51.601110000",
+                    "long": "4.767000000",
+                    "ele": "2.000"
                 }
-
             ],
             "poi": [
                 {
                     "title": "T-Huis",
-                    "number": 1,
+                    "type": "food",
+                    "id": "39d9380f-cc19-4fb6-9249-a63d4133c535",
                     "color": "red",
                     "lat": 51.592000,
                     "long": 4.780820,
-                    "description": "Gelegen in het historische Valkenbergpark, is het T-Huis dé plek om even te ontsnappen aan de drukte van de stad, zonder dat je het centrum hoeft te verlaten. Je bent hier welkom voor ontbijt, lunch, diner én live muziek. Want op dinsdag is het hier vaste prik jamsession. Iedereen die zingt of een instrument bespeelt kan aansluiten. Op het iconisch rode bordes of op het grasveld recht voor het T-Huis heb je uitzicht op het park en de Grote Toren. Het T-Huis is gebouwd als kunstwerk en is ontworpen door de bekende kunstenaar/architect John Körmeling.",
-                    "thumbnail": [],
+                    "description": {
+                        "en": "Located in the beautiful Valkenberg Park, the T-Huis is one of Breda's hotspot. A place to escape the hustle and bustle of the city for a while. Whether you sit inside and enjoy the 360-degree view, or on the (all-day) sunny terrace. Even children, within sight of the terrace, have a great time in the fine playground. \n\nEnjoy a three-course dinner, lunch or even breakfast in the middle of greenery. Don´t let the name fool you: on the extensive drinks menu, you will find many types of tea and coffee as well as beautiful, seasonal special beers, summer cocktails and even homemade sangria. \n\nFor those who prefer to chill in the grass, there are lounge chairs and beanbags ready around the terrace and you can order quickly and simply via a QR code. In other words, any time of the day, all week long, you can enjoy T-huis.",
+                        "nl": "Gelegen in het prachtige Valkenbergpark, is het T-Huis dé horeca hotspot van Breda. Een plek om even te ontsnappen aan de drukte van de stad. Of je nu binnen zit en geniet van het 360-graden uitzicht, of op het (heel de dag door) zonnige terras. Ook kinderen vermaken zich, in het zicht van het terras, prima in de fijne speeltuin. \n\nMidden in het groen geniet je van een driegangendiner, lunch en zelfs ontbijt. Don´t let the name fool you: op de uitgebreide drankkaart vind je naast veel soorten thee en koffie ook prachtige, seizoensgebonden speciaalbiertjes, zomerse cocktails en zelfs huisgemaakte sangria. \n\nVoor wie liever in het gras chilt, staan er loungestoelen en zitzakken klaar rondom het terras en bestel je via een QR-code snel en simpel. Oftewel, op elk moment van de dag, de hele week door, kun je bij het T-Huis prinsheerlijk genieten."
+                    },
+                    "openHours": {
+                        "en": "Monday to Sunday: 10:00 - 23:00",
+                        "nl": "Maandag t/m Zondag: 10:00 - 23:00"
+                    },
+                    "thumbnails": [
+                        "https://assets.citynavigator.nl/odp-breda/image/t-huis_2928926246.jpg"
+                    ],
                     "address": "Kennedylaan 15",
                     "city": "Breda",
-                    "footer_text": "Benieuwd naar het verhaal áchter deze bijzondere plek? Lees dan onze blog.",
-                    "blog": "https://www.welkominbreda.nl/nl/blogs/t-huis-brengt-livemuziek-in-het-park",
-                    "labels": ["foodAndDrink", "entrepreneurs"]
+                    "postalCode": "4811 ET",
+                    "website": "https://t-huis.online",
+                    "labels": [
+                        "foodAndDrink",
+                        "nature"
+                    ]
                 },
                 {
                     "title": "Kamu",
-                    "number": 2,
+                    "type": "food",
+                    "id": "ab6762bf-9f01-4c8e-9f5e-2cc55e59219c",
                     "color": "magenta",
                     "lat": 51.590020,
                     "long": 4.781410,
-                    "description": "Bij Kamu koffiebar en fietsenwinkel zetten ze perfect uitgebalanceerde espresso, zijdezachte cappuccino’s, soepele americano’s en een fijne bak V60 filterkoffie. Naast een goede bak koffie vind je in de fietsenwinkel niche fietsmerken en unieke custom bike builds. Ook kun je bij Kamu terecht voor allerlei workshops, events races en voor al je vragen over gravel-, race- en stadsfietsen.",
-                    "thumbnail": [],
+                    "description": {
+                        "en": "At Kamu, the love of coffee and cycling go hand in hand. At this coffee bar and unique bike shop, you'll drink a silky smooth cappuccino with delicious cakes, but the specialists will also help you with everything you need to know about bikes. \n\nKamu is not your average bike shop, but a shop full of niche bike brands and accessories. Ideally, they will work with you here to put together a unique custom bike, completely to your liking. You can also come to Kamu for events, races and all your questions about gravel, road and mountain bikes.",
+                        "nl": "Bij Kamu gaan de liefde voor koffie en fietsen hand in hand. In deze koffiebar én unieke fietsenwinkel drink je een zijdezachte cappuccino met heerlijke cakes, maar helpen de specialisten je ook met alles wat je moet weten over fietsen. \n\nKamu is geen doorsnee fietsenwinkel, maar een shop vol met niche fietsmerken en accessoires. Het liefst stellen ze hier samen met jou een unieke custom bike samen, helemaal naar jouw wens. \n\nOok kun je bij Kamu terecht voor allerlei events, races én met al je vragen over gravel-, race- en mountainbikefietsen."
+                     },
+                    "openHours": {
+                        "en": "Monday to Friday: 09:00 - 17:30  \n\nSaturday: 09:00 - 17:00  \n\nSunday: 11:00 - 17:00",
+                        "nl": "Maandag t/m Vrijdag: 09:00 - 17:30 \n\nZaterdag: 09:00 - 17:00  \n\nZondag: 11:00 - 17:00"
+                    },
+                    "thumbnails": [
+                        "https://assets.citynavigator.nl/odp-breda/image/kamu-breda4_4086953813.jpg"
+                    ],
                     "address": "Boschstraat 31",
                     "city": "Breda",
-                    "footer_text": "Benieuwd naar het verhaal áchter deze toffe plek? Lees dan onze blog.",
-                    "blog": "https://www.welkominbreda.nl/nl/blogs/kamu-brengt-koffie-en-fietsen-samen",
-                    "labels": ["walkingAndCycling", "entrepreneurs", "foodAndDrink", "Cycling"]
+                    "postalCode": "4811 GA",
+                    "website": "https://www.kamu-breda.nl",
+                    "labels": [
+                        "shopping",
+                        "foodAndDrink"
+                    ]
                 },
                 {
                     "title": "The Green Submarine",
-                    "number": 3,
+                    "type": "shop",
+                    "id": "623de0f2-4135-4fe2-8416-72dd508d2a7f",
                     "color": "purple",
                     "lat": 51.588880,
                     "long": 4.777960,
-                    "description": "The Green Submarine helpt jou bij het kiezen, verzorgen en onderhouden van je kamerplanten. Vanuit de winkel in de St. Annastraat in Breda helpt eigenaresse Monique je met het vergroenen van jouw woning, horecazaak of kantoor. De aanschaf van planten is een flinke investering en je wil er natuurlijk alles aan doen om ze zo lang mogelijk in leven te houden. Monique helpt je daar graag bij!\n Aan de St. Annastraat 13 vind je een groot aanbod kamerplanten en plantbenodigdheden. Alles om jouw groene vrienden tevreden te houden en indien nodig van wat extra aandacht te voorzien. Monique stelt het assortiment zorgvuldig samen, met oog voor het milieu en zo duurzaam mogelijk. Daarnaast zoekt ze zoveel mogelijk de samenwerking op met lokale ondernemers.",
-                    "thumbnail": [],
+                    "description": {
+                        "en": "At Monique's green shop, everything breathes love for plants. Monique helps you green up your home and choose the right plants. But she also gives advice on care and maintenance so you can enjoy them for as long as possible. Step inside The Green Submarine and get inspired!  \n\nIn this urban jungle, you will find a wide range of houseplants and planting accessories. Everything to keep your green friends happy and give them some extra attention if necessary. Monique puts together the range carefully, with an eye for the environment and as sustainable as possible. In addition, she seeks cooperation with local entrepreneurs as much as possible.",
+                        "nl":"In de groene winkel van Monique ademt alles liefde voor planten. Monique helpt je met het vergroenen van jouw woning en het kiezen van de juiste planten. Maar ze geeft ook advies over de verzorging zodat je er zo lang mogelijk van kunt genieten. Stap binnen in The Green Submarine en laat je inspireren! \n\nIn deze urban jungle vind je een groot aanbod kamerplanten en plantbenodigdheden. Alles om jouw groene vrienden tevreden te houden en indien nodig van wat extra aandacht te voorzien. Monique stelt het assortiment zorgvuldig samen, met oog voor het milieu en zo duurzaam mogelijk. Daarnaast zoekt ze zoveel mogelijk de samenwerking op met lokale ondernemers."
+                    },
+                    "openHours": {
+                        "en": "Tuesday to Saturday: 11:00 - 17:30 \n\nSunday to Monday: Closed",
+                        "nl": "Dinsdag t/m Zaterdag: 11:00 - 17:30 \n\nZondag t/m Maandag: Gesloten"
+                    },
+                    "thumbnails": [
+                        "https://assets.citynavigator.nl/odp-breda/image/the-green-submarine1_4020678272.jpg"
+                    ],
                     "address": "Sint Annastraat 13",
                     "city": "Breda",
-                    "footer_text": "Benieuwd naar The Green Submarine? Lees ook de blog over Monique!",
-                    "blog": "https://www.welkominbreda.nl/nl/blogs/monique-brengt-groen-in-huis",
-                    "labels": ["durable", "shopping", "entrepreneurs"]
+                    "postalCode": "4811 XK",
+                    "website": "https://www.thegreensubmarine.nl",
+                    "labels": [
+                        "shopping"
+                    ]
                 },
                 {
                     "title": "SAARBARBAARS",
-                    "number": 4,
+                    "type": "shop",
+                    "id": "4f7a0020-90c5-41c8-bdd9-65df9c2bad99",
                     "color": "indigo",
                     "lat": 51.588835,
                     "long": 4.7779902,
-                    "description": "Urban, rauw, tegendraads en gedurfd. Dat is de stijl van SAARBARBAARS. Sarah Boeren maakt en verkoopt unisex tassen, accessoires en kleding. Zij maakt ambachtelijke producten van hoge kwaliteit in haar atelier aan de Sint. Annastraat. Van ontwerp tot eindproduct, met veel liefde en plezier geproduceerd. De tassen zijn modern met een rauw randje: streetwear in een luxe jasje. Elk model heeft een eigen persoonlijke stijl en deze vormen samen een collectie van Barbaarse tassen. Je kunt er ook terecht voor speciale verzoeken om je tas extra persoonlijk te maken!",
-                    "thumbnail": [],
+                    "description": {
+                        "en": "Urban, raw, unruly, and daring. That is the style of SAARBARBAARS. Sarah designs and makes unisex bags, accessories and sells her own merchandise. In her beautiful studio on the St. Annastraat, she makes high-quality artisan products.  \n\nFrom design to end product, produced with lots of love and pleasure. Her designs are modern with a raw edge: streetwear in a luxurious layer. Curious about the different models in the collection? Be sure to drop in.",
+                        "nl": "Urban, rauw, tegendraads en gedurfd. Dat zijn het atelier en de stijl van SAARBARBAARS. Sarah ontwerpt en maakt uniseks tassen en accessoires en ze verkoopt haar eigen merchandise. In haar prachtige atelier aan de St. Annastraat ontwikkelt ze ambachtelijke producten van hoge kwaliteit. \n\nVan ontwerp tot eindproduct wordt hier met veel liefde en plezier geproduceerd. Sarah's ontwerpen zijn modern met een rauw randje: streetwear in een luxe jasje. Benieuwd naar de verschillende modellen uit de collectie? Loop zeker even binnen."
+                    },
+                    "openHours": {
+                        "en": "Wednesday to Saturday: 11:00 - 17:30 \n\nSunday to Tuesday: Closed",
+                        "nl": "Woensdag t/m Zaterdag: 11:00 - 17:30  \n\nZondag t/m Dinsdag: Gesloten"
+                    },
+                    "thumbnails": [
+                        "https://assets.citynavigator.nl/odp-breda/image/saar-barbaars_3723486005.jpg"
+                    ],
                     "address": "Sint Annastraat 11",
                     "city": "Breda",
-                    "footer_text": "Benieuwd naar het verhaal achter SAARBARBAARS? Lees dan de blog.",
-                    "blog": "https://www.welkominbreda.nl/nl/blogs/sarah-brengt-creativiteit-tot-leven",
-                    "labels": ["shopping", "durable", "entrepreneurs"]
+                    "postalCode": "4811 XK",
+                    "website": "https://www.saarbarbaars.com",
+                    "labels": [
+                        "shopping"
+                    ]
                 },
                 {
                     "title": "FAWL Customs",
-                    "number": 5,
+                    "type": "shop",
+                    "id": "6f5f1bcd-f934-445b-99a4-75cbbd6a299c",
                     "color": "royal",
                     "lat": 51.58876419067383,
                     "long": 4.778165340423584,
-                    "description": "Bij FAWL Customs kun je je eigen sneaker samenstellen. Kies uit meer dan 80 kleuren en oneindig veel kleurencombinaties. In overleg wordt besproken wat het uiteindelijke resultaat moet worden. Daarnaast vind je er ook een aantal exclusieve én vintage sneakers.",
-                    "thumbnail": [],
+                    "description": {
+                        "en": "As a sneaker lover you must have visited Freek from FAWL Customs. Here you put together your own sneakers, based entirely on your preference. Freek customized them for you by hand, so that you have your own unique pair of shoes. You can also contact FAWL to clean, restore or repair your old or dirty shoes. \n\nThis is how you give your old shoes a new life. In addition, you will also find several exclusive and vintage sneakers in his store on St. Annastraat.",
+                        "nl": "Als sneakerliefhebber moet je bij Freek van FAWL Customs geweest zijn. Hier stel je namelijk je eigen sneakers samen, helemaal gebaseerd op jouw voorkeur. Freek customized ze met de hand voor je, zodat jij je eigen unieke paar schoenen hebt. Ook kun je bij FAWL terecht om je oude of vieze schoenen te ‘cleanen, restoren of reparen’. \n\nZo geef je je oude schoenen een nieuw leven. Daarnaast vind je in zijn winkel aan de St. Annastraat ook exclusieve én vintage sneakers."
+                     },
+                    "openHours": {
+                        "en": "Monday to Tuesday: Closed \n\nWednesday to Friday: 11:00 - 17:00  \n\nSaturday to Sunday: 12:00 - 17:00",
+                        "nl": "Maandag t/m Dinsdag: Gesloten \n\nWoensdag t/m Vrijdag: 11:00 - 17:00 \n\nZaterdag t/m Zondag: 12:00 - 17:00"
+                    },
+                    "thumbnails": [
+                        "https://assets.citynavigator.nl/odp-breda/image/fawl-customs-st-annastraat-1_1842643163.jpg"
+                    ],
                     "address": "Sint Annastraat 9",
                     "city": "Breda",
-                    "footer_text": "Benieuwd naar het verhaal van FAWL Customs? Wij interviewden eigenaar Freek.",
-                    "blog": "https://www.welkominbreda.nl/nl/blogs/freek-brengt-nieuw-leven-in-jouw-sneakers",
-                    "labels": ["shopping", "entrepreneurs"]
+                    "postalCode": "4811 XK",
+                    "website": "https://www.fawlcustoms.com",
+                    "labels": [
+                        "shopping"
+                    ]
                 },
                 {
                     "title": "Parels",
-                    "number": 6,
+                    "type": "shop",
+                    "id": "c9afb4bd-a063-4870-b264-2fbc39aa1704",
                     "color": "steel",
-                    "lat": 51.58593852831892,
-                    "long": 4.776869174108735,
-                    "description": "Parels is een circulaire winkel met webshop in de Houtmarkt. In deze winkel worden tweedehands spullen verkocht, echte parels, aangeleverd door Vindingrijk Kringloopwarenhuis. Een winkel zonder voorraad, iedere dag ontdek je hier weer iets 'nieuws'. \n\n Een klein deel van die spullen is ook op de webshop te koop, zodat je niet alleen in de winkel kunt komen shoppen, maar ook online. \nNaast een winkel en webshop is dit een plek van ontmoeting en inspiratie. Een plek waar mensen samenkomen en zich inzetten voor een duurzaam en circulair Breda. Er zijn werk- en vergaderplekken, er kunnen workshops worden gehouden, en er is voorlichting en advies. Allemaal rond het thema circulariteit.",
-                    "thumbnail": [],
+                    "lat": 51.586010000000044,
+                    "long": 4.777160000000038,
+                    "description": {
+                        "en": "Pearls is a circular store in the Houtmarkt. This store is the 'treasure chamber' of Kringloopwarenhuis Vindingrijk and creatively decorated with recycled material. You don't just come here to score gems with a past. It is also a place of meeting and inspiration for people who are committed to a sustainable and circular Breda. \n\nA store without stock, every day you discover something 'new' here. A small part of that stuff is also for sale on the webshop. Next to the store there are work and meeting places and workshops, information and advice are given on circularity.",
+                        "nl": "Parels is een circulaire winkel in de Houtmarkt. Deze winkel is de ‘schatkamer’ van Kringloopwarenhuis Vindingrijk en creatief ingericht met herwonnen materiaal. Hier kom je niet alleen om pareltjes met een verleden te scoren. Het is ook een plek van ontmoeting en inspiratie voor mensen die zich inzetten voor een duurzaam en circulair Breda. \n\nEen winkel zonder voorraad, iedere dag ontdek je hier weer iets 'nieuws'. Een klein deel van die spullen is ook in de webshop te koop. Naast de winkel zijn er werk- en vergaderplekken én worden er workshops, voorlichting en advies gegeven rondom circulariteit."
+                     },
+                    "openHours": {
+                        "en": "Tuesday to Saturday: 10.00 - 18.00 \n\nSunday to Monday: Closed",
+                        "nl": "Dinsdag t/m Zaterdag: 10.00 - 18.00 \n\nZondag t/m Maandag: Gesloten"
+                    },
+                    "thumbnails": [
+                        "https://assets.citynavigator.nl/odp-breda/image/parels2_2949094378.jpg"
+                    ],
                     "address": "Houtmarktpassage 33",
                     "city": "Breda",
-                    "labels": ["shopping", "durable"]
+                    "postalCode": "4811 JC",
+                    "website": "https://parelsbreda.nl",
+                    "labels": [
+                        "shopping"
+                    ]
                 },
                 {
                     "title": "Blind Walls Gallery",
-                    "number": 7,
+                    "type": "culture",
+                    "id": "cb6470c9-3f79-41cc-aa0b-7b1a59c5bb5d",
                     "color": "turquoise",
                     "lat": 51.58455431043995,
                     "long": 4.7783715860638605,
-                    "description": "Blind Walls Gallery is hét museum op straat. Een groeiende collectie van meer dan 100 muurschilderingen gemaakt door internationale kunstenaars. Iedere schildering is gebaseerd op een Bredaas verhaal dat past bij de locatie. Op de Mols Parking vind je verschillende Blind Walls met allemaal hun eigen verhaal.\n \nDe Blind Walls Gallery ontdekken kan op verschillende manieren: \n- Wandelen of fietsen aan de hand van de web-app \nDe organisatie van de Blind Walls Gallery heeft [diverse fiets- en wandelroutes](https://blindwalls.gallery/route/) samengesteld die je aan de hand van de vernieuwde app kunt lopen of fietsen.\n - Blind Walls Gallery Tour \nRegelmatig zijn er op zondag op inschrijving rondleidingen te voet of op de fiets langs de muurschilderingen. Een alternatieve manier om de stad te ontdekken. Bijzondere locaties, goede verhalen en mooie kunstwerken. \nAanmelden via: [www.blindwalls.gallery](https://blindwalls.gallery/tours/)\n - Wandel- of fietstour op maat (voor groepen) \nWil je een wandel- of fietstour op maat langs de Blind Walls? Die kun je boeken via de [site van de Blind Walls Gallery.](https://blindwalls.gallery/tours/tour-op-maat/)",
-                    "thumbnail": [],
+                    "description": {
+                        "en": "At first glance, the parking lot 'Achter de Lange Stallen' is not the most inspiring place, until you discover all the creative street art. These murals are part of Blind Walls Gallery. Blind Walls Gallery is the museum on the street in Breda. \n\nA growing collection of over 100 murals created by international artists. Each painting is based on a Breda story that fits the location. In the parking lot you will find several Blind Walls, each with their own story and you will probably encounter more on this route.",
+                        "nl": "Op het eerste gezicht is de parkeerplaats ‘Achter de Lange Stallen’ niet de meest inspirerende plek, tot je alle creatieve streetart ontdekt. Deze muurschilderingen zijn onderdeel van de Blind Walls Gallery, hét museum op straat in Breda. \n\nEen groeiende collectie van meer dan honderd muurschilderingen, gemaakt door internationale kunstenaars. Iedere schildering is gebaseerd op een Bredaas verhaal dat past bij de locatie. Op de parkeerplaats vind je verschillende Blind Walls met allemaal hun eigen verhaal en op deze route kom je er vast nog meer tegen."
+                     },
+                    "openHours": {
+                        "en": "Open 24/7",
+                        "nl": "24/7 te bezoeken"
+                    },
+                    "thumbnails": [
+                        "https://assets.citynavigator.nl/odp-breda/image/blindwallsgallery_1531352646.jpg"
+                    ],
+                    "website": "https://blindwalls.gallery/",
                     "address": "Achter de Lange Stallen 1",
                     "city": "Breda",
-                    "labels": ["history", "walkingAndCycling"]
+                    "postalCode": "4811 HM",
+                    "labels": [
+                        "culture",
+                        "activeAndFun"
+                    ]
                 },
                 {
                     "title": "Algorithmic Perfumery",
-                    "number": 8,
+                    "type": "shop",
+                    "id": "13f56725-6b89-417c-b9c3-6a876407fa37",
                     "color": "green",
                     "lat": 51.58472739233855,
                     "long": 4.776986513648637,
-                    "description": "Bij Algorithmic Perfumery maak je een geur voor jezelf door je innerlijk te verkennen. Beantwoord een reeks vragen over je persoonlijkheid en ontdek meer over jezelf. Neem een sprong en begin je reis door de wereld van geur. Of maak een kenmerkende geur voor iemand die je kent door een reeks vragen over diens persoonlijkheid te beantwoorden. Verken verschillende facetten over wat hem of haar drijft. #Kunst-wetenschap-technologie \nAlgorithmic Perfumery bevindt zich op het kruispunt van kunst, wetenschap en technologie. Het is ontstaan uit de ontmoeting tussen kunstenaar-technoloog Frederik Duerinck en geurontwerper Anahita Mekanik. Zij stellen de gebruikers centraal in het creatieproces en gaan zo op een nieuwe manier met geuren om. ",
-                    "thumbnail": [],
-                    "address": "address",
+                    "description": {
+                        "en": "At Algorithmic Perfumery, you put together your own perfume based on a questionnaire about your personality. A place where creativity and technology come together and where you can experience a unique fragrance experience. \n\nIn the 'lab' you can see the machine that composes this fragrance for you and the staff will take you into the world of fragrance. Together you will look for your unique perfume or create a signature scent for someone you know. A unique place in the shopping district of Breda.",
+                        "nl": "Bij Algorithmic Perfumery stel je aan de hand van een vragenlijst over jouw persoonlijkheid zelf een parfum samen. Een plek waar creativiteit en technologie samen komen en waar je een unieke geur experience kunt beleven. \n\nIn het ‘lab’ zie je de machine die deze geur voor je samenstelt. Hier neemt een medewerker je mee in de wereld van geur. Samen ga je op zoek naar jouw unieke parfum of je maakt een kenmerkende geur voor iemand die je kent. Een unieke plek in de winkelstraat van Breda."
+                     },
+                    "openHours": {
+                        "en": "Monday: 12:00 - 18:00 \n\nTuesday, Wednesday, Friday & Saturday: 10:00 - 18:00 \n\nThursday: 10:00 - 21:00 \n\nSunday: 12:00 - 17:00",
+                        "nl": "Maandag: 12:00 - 18:00 \n\nDinsdag, Woensdag, Vrijdag & Zaterdag: 10:00 - 18:00 \n\nDonderdag: 10:00 - 21:00 \n\nZondag: 12:00 - 17:00"
+                    },
+                    "thumbnails": [
+                        "https://assets.citynavigator.nl/odp-breda/image/algorithmic-perfumery_241574372.jpg"
+                    ],
+                    "address": "Ginnekenstraat 61",
                     "city": "Breda",
-                    "footer_text": "Benieuwd naar het hele verhaal achter Algorithmic Perfumery? Je leest het hier!",
-                    "blog": "https://www.welkominbreda.nl/nl/blogs/algorithmic-perfumery-brengt-een-wereld-van-geur",
-                    "labels": ["shopping", "entrepreneurs"]
+                    "postalCode": "4811 JE",
+                    "website": "https://www.everyhuman.com/nl",
+                    "labels": [
+                        "shopping"
+                    ]
                 },
                 {
                     "title": "BAAI",
-                    "number": 9,
+                    "type": "food",
+                    "id": "5eaabde1-cbd4-4b6f-a4f4-4757b1be0406",
                     "color": "yellow",
                     "lat": 51.593398764540154,
                     "long": 4.769817220405599,
-                    "description": "BAAI is een fijne spot in Breda waar je kunt genieten van een heerlijk drankje aan het water of een compleet verzorgde borrel of diner. BAAI maakt van iedere dag een unieke festivaldag. \nHier kun je allerlei kanten op. Je eet bij BAAI bijvoorbeeld heerlijke tapas, BBQ of buffet.  Of je doet van daaruit met je groep(je) de escape city game of maakt een prachtige boottocht over de singels. \n\nBAAI is een hotspot waar iedereen terecht kan en iets kan beleven dat bij hem of haar past. Het is perfect voor gezelschappen maar als je tot rust wilt komen onder het genot van een drankje ben je hier ook welkom. En dat ieder seizoen in een andere bijzondere setting.",
-                    "thumbnail": [],
+                    "description": {
+                        "en": "Do you want to go out on the water? Then moor at BAAI, a place where it always seems like a holiday. BAAI is a nice spot on the water where you can moor (and rent) boats and enjoy music, games, and good food. \n\nBAAI is a hotspot where everyone can go and experience something that suits them. It is perfect for groups, but you can also relax while enjoying a drink. Every season BAAI is transformed into a real 'seasonal hotspot'. From igloos in the winter to a sunny terrace in the summer.",
+                        "nl": "Mocht je het water op gaan, leg dan vooral even aan bij BAAI, een plek waar het altijd vakantie lijkt. BAAI is een fijne spot aan het water waar je je bootje aan kunt leggen (en huren) en kunt genieten van muziek, spelletjes en lekker eten. \n\nBAAI is een plek waar iedereen iets kan beleven wat bij hem of haar past. Het is perfect voor gezelschappen, maar je komt er ook lekker tot rust onder het genot van een drankje. Ieder seizoen wordt BAAI getransformeerd in een echte ‘seizoenshotspot’. Van iglo’s in de winter tot een zonnig terras in de zomer."
+                     },
+                    "openHours": {
+                        "en": "February to March open on request \n\nFrom March regular opening hours ",
+                        "nl": "Februari t/m Maart: Geopend op aanvraag \n\n(Vanaf eind maart weer regulier geopend. De openingstijden volgen.)"
+                     },
+                    "thumbnails": [
+                        "https://assets.citynavigator.nl/odp-breda/image/baai_2442833005.jpg"
+                    ],
                     "address": "Markkade 1AB",
                     "city": "Breda",
-                    "footer_text": "Benieuwd naar deze toffe plek? Lees dan onze blog 'BAAI brengt het ultieme vakantie-gevoel'",
-                    "blog": "https://www.welkominbreda.nl/nl/blogs/baai-brengt-het-ultieme-vakantiegevoel",
-                    "labels": ["activeAndFun", "foodAndDrink", "entrepreneurs", "holidays"]
+                    "postalCode": "4915 HJ",
+                    "website": "https://baaibreda.nl",
+                    "labels": [
+                        "foodAndDrink",
+                        "activeAndFun"
+                    ]
                 },
                 {
                     "title": "Brandpunt",
-                    "number": 10,
+                    "type": "shop",
+                    "id": "cd239970-54d5-46df-ab85-9196df80dd3a",
                     "color": "gold",
                     "lat": 51.5894636,
                     "long": 4.7754084,
-                    "description": "Brandpunt een creatieve hotspot in Breda, met een dynamische mix van koffie, winkel en creativiteit. Daarnaast is het een plek waar creatieve ondernemers werken en samenwerken. In de winkel vind je unieke sieraden, decoratie- en gebruiksvoorwerpen. Ook uit de eigen lasersnijderij! \n\n Brandpunt verhuurt ook werkruimtes en je kunt er vergaderen in een inspirerende omgeving in het centrum van Breda.",
-                    "thumbnail": [],
+                    "description": {
+                        "en": "Brandpunt is a cool concept store in Breda, with a dynamic mix of coffee and creativity. All kinds of creative makers offer their jewelry, original utensils, and decorations here. The products from their own laser cutter are also sold here. You can also enjoy a delicious cup of coffee or lunch here. \n\nIt is also a place where creative entrepreneurs work and join forces. Brandpunt also rents out workspaces and you can hold meetings in an inspiring environment in the center of Breda.",
+                        "nl": "Brandpunt is een toffe conceptstore in Breda, met een dynamische mix van koffie en creativiteit. Hier bieden allerlei creatieve makers hun sieraden, originele gebruiksvoorwerpen en decoraties aan en je vindt hier ook producten uit de eigen lasersnijderij. Daarnaast geniet je hier van een heerlijke kop koffie of lunch. \n\nHet is ook een plek waar creatieve ondernemers werken en hun krachten bundelen. Brandpunt verhuurt ook werkruimtes en je kunt er vergaderen in een inspirerende omgeving in het centrum van Breda."
+                     },
+                    "openHours": {
+                        "en": "Monday to Friday: 09:00 - 17:30 \n\nSaturday: 11:00 - 17:00 \n\nSunday: Closed",
+                        "nl": "Maandag t/m Vrijdag: 09:00 - 17:30  \n\nZaterdag: 11:00 - 17:00  \n\nZondag: Gesloten"
+                     },
+                    "thumbnails": [
+                        "https://assets.citynavigator.nl/odp-breda/image/brandpunt_2120241882.jpg"
+                    ],
+                    "website": "https://www.brandpuntbreda.nl/",
                     "address": "Reigerstraat 16",
                     "city": "Breda",
-                    "labels": ["foodAndDrink", "entrepreneurs", "shopping"]
+                    "postalCode": "4811 XB",
+                    "labels": [
+                        "shopping",
+                        "foodAndDrink"
+                    ]
                 },
                 {
                     "title": "Brouwerij Frontaal",
-                    "number": 11,
+                    "type": "food",
+                    "id": "1d638ced-71f3-408f-b909-955d10500b6a",
                     "color": "sand",
                     "lat": 51.5978758,
                     "long": 4.7831451,
-                    "description": "Ze zijn een brouwerij die staat voor innovatie, balans, creativiteit maar ook zeker voor transparantie (op de helderheid van sommige bieren na). Dit komt allemaal terug in de smaak van het bier, de etiketten maar ook zeker door de manier van handelen door de brouwerij. \n\nHet bier wordt gebrouwen volgens de slogan \"Beer for Thought\". Hiermee doelen ze op het creëren van smaken, kleuren en geuren in het bier, wat de drinker aanzet tot denken waar dit door ontstaan is. Naast dat er op zoek gegaan wordt naar de uitwerking van de ingrediënten zou men ook kunnen denken bij welk gerecht het bier lekker bij is of bij welk moment het goed past.",
-                    "thumbnail": [],
+                    "description": {
+                        "en": "Frontaal is a Breda brewery that stands for innovation, balance, creativity and transparency. This is all reflected in the taste of the beer, the labels, but also definitely in the brewery's way of doing things. A place to go for tours, tastings or a nice beer in the brew pub or sunny terrace. \n\nWith the slogan 'Beer for Thought', Frontaal Brewery characterises itself by brewing beers with thought. With each beer, deep thought goes into the flavour, colour and aroma of the beer. Quality always comes first. Whether it's recognising flavours, speculating on the brewing process or the philosophical thoughts that arise at all when consuming beer, the thoughts will speak for themselves. \n\nThe latest and freshest beers can be found in the brewery's tasting room/brew pub. In the former Faam premises, an old industrial building, you will also find the shop for take-home beers and merchandise. The place is always lovely. In winter, the stove is on flame and in summer, sunbeams warm the terrace. In addition, the brew pub offers tastings that expand your knowledge about beers, the brewing process and/or Frontaal. Curious about something other than the standard styles of beers? Or do you just want to enjoy a pleasant evening? Then be sure to pop in.",
+                        "nl": "Frontaal is een Bredase brouwerij die staat voor innovatie, balans, creativiteit en transparantie. Dit komt allemaal terug in de smaak van het bier, de etiketten, maar ook zeker in de manier van handelen door de brouwerij. Een plek waar je terecht kunt voor rondleidingen, proeverijen of een lekker biertje in het brouwcafé of het zonnige terras. \n\nMet de slogan 'Beer for Thought' kenmerkt Brouwerij Frontaal zich door het brouwen van bieren met gedachtegoed. Bij elk bier wordt diep gebroed op smaak, kleur en geur van het bier. Kwaliteit staat altijd voorop. Of het nu gaat om herkenning van smaken, speculeren over het brouwproces of de filosofische gedachtes die überhaupt ontstaan bij het consumeren van bier, de gedachtes zullen voor zichzelf spreken. \n\nDe nieuwste en meest verse bieren vind je in het proeflokaal/brouwcafé van de brouwerij. In het voormalige pand van de Faam, een oud industrieel pand, vind je ook de winkel voor de mee-naar-huis bieren en merchandise. Het is hier altijd heerlijk toeven. In de winter staat de kachel op standje vlammen en in de zomer warmen zonnestralen het terras op. Daarnaast biedt het brouwcafé proeverijen aan waarmee je je kennis over bieren, het brouwproces en/of Frontaal vergroot. Benieuwd naar iets anders dan de standaard stijlen bieren? Of wil je gewoon een gezellige avond beleven? Stap dan vooral eens binnen."
+                     },
+                    "openHours": {
+                        "en": "Monday to Tuesday: Closed \n\nWednesday: 16:00 - 23:00 \n\nThursday to Sunday: 14:00 - 23:00 ",
+                        "nl": "Maandag t/m Dinsdag: Gesloten \n\nWoensdag: 16:00 - 23:00 \n\nDonderdag t/m Zondag: 14:00 - 23:00"
+                     },
+                    "thumbnails": [
+                        "https://assets.citynavigator.nl/odp-breda/image/frontaal_4115027376.jpg"
+                    ],
                     "address": "Liniestraat 31",
                     "city": "Breda",
-                    "footer_text": "Echte bierliefhebber? Bekijk ook deze pagina met een overzicht van alle brouwerijen in Breda!",
-                    "blog": "https://www.welkominbreda.nl/nl/blogs/brouwerijen-in-breda",
-                    "labels": ["history", "foodAndDrink"]
+                    "postalCode": "4816 BG",
+                    "website": "https://frontaalbrewingcompany.com",
+                    "labels": [
+                        "foodAndDrink",
+                        "activeAndFun"
+                    ]
                 },
                 {
                     "title": "STEK",
-                    "number": 12,
+                    "type": "culture",
+                    "id": "0013bbf1-5eaf-4b0c-a526-b82e3cfde30f",
                     "color": "orange",
                     "lat": 51.5990158,
                     "long": 4.7666235,
-                    "description": "Stek is een broedplaats voor creatieve ondernemers in het Bredase Havenkwartier. Duurzamheid, circulariteit en samenwerking staan hier hoog in het vaandel. Het is een echte community waar iedereen elkaar helpt om verantwoord te ondernemen. \n\nOp Stek vind je ca. 25 uiteenlopende bedrijven. Zo maakt Plastiek van afvalplastic nieuwe producten. Bredase Bomen geeft gevelde bomen terug aan de wijk in de vorm van straatmeubilair. En bij Elemental doe je verpakkingsloos je boodschappen. Er zijn verschillende plekken waar je neerstrijkt voor een eerlijke koffie, lokaal biertje of lekkere lunch. Ook kinderen vermaken zich prima op Stek want er valt genoeg te spelen.",
-                    "thumbnail": [],
-                    "address": "Veilingkade 9a",
+                    "description": {
+                        "en": "STEK is an incubator for creative and future-oriented entrepreneurs in Breda's Havenkwartier. This is the place for new ideas, sustainable initiatives, working with your hands and, above all, a lot of passion. Sustainability, circularity and cooperation are paramount here. The site has some 30 'Stekkers', each with its own story. \n\nPlaSTiEk, for instance, turns waste plastic into new products and STAM gives indoor fabrics from army tents a second life. There are several places where you can settle down for an honest coffee, local beer, organic wine or tasty lunch. Children also have a great time at STEK and guided tours and STEK markets are organised regularly.",
+                        "nl": "STEK is een broedplaats voor creatieve en toekomstbewuste ondernemers in het Bredase Havenkwartier. Dit is dé plek van nieuwe ideeën, duurzame initiatieven, met je handen werken en vooral heel veel passie. Duurzaamheid, circulariteit en samenwerking staan hier hoog in het vaandel. Het terrein telt zo’n 30 ‘Stekkers’ met ieder een eigen verhaal. \n\nZo maakt PlaSTiEk van afvalplastic nieuwe producten en geeft STAM indoor stoffen van bijvoorbeeld legertenden een tweede leven. Er zijn verschillende plekken waar je neerstrijkt voor een eerlijke koffie, lokaal biertje, biologisch wijntje of lekkere lunch. Ook kinderen vermaken zich prima op STEK en er worden regelmatig rondleidingen en STEKmarkten georganiseerd."
+                     },
+                    "openHours": {
+                        "en": "Monday: Closed \n\nTuesday to Sunday: 10:30 - 18:00 ",
+                        "nl": "Maandag: Gesloten \n\nDinsdag t/m Zondag: 10:30 - 18:00"
+                     },
+                    "thumbnails": [
+                        "https://assets.citynavigator.nl/odp-breda/image/stek_3761087023.jpg"
+                    ],
+                    "address": "Veilingkade 9A",
                     "city": "Breda",
-                    "footer_text": "Wil je weten welke ondernemers je op STEK vindt? Lees dan ons blog over STEK.",
-                    "blog": "https://www.welkominbreda.nl/nl/blogs/wat-is-er-te-doen-op-stek",
-                    "labels": ["shopping", "durable"]
+                    "postalCode": "4815 HC",
+                    "website": "https://stekbreda.nl",
+                    "labels": [
+                        "culture",
+                        "activeAndFun",
+                        "foodAndDrink",
+                        "shopping"
+                    ]
                 },
                 {
                     "title": "Pier15",
-                    "number": 13,
+                    "type": "entertainment",
+                    "id": "598320f2-9317-4121-b498-1e06d1a6d651",
                     "color": "red",
                     "lat": 51.5994363,
                     "long": 4.7648965,
-                    "description": "In de afgelopen jaren is Pier15 uitgegroeid tot een van de toonaangevende skateparken in Europa. maar het is ook een broeinest voor cultuur. Met meer dan 60.000 bezoekers per jaar, wekelijks culturele evenementen, festivals, skateschool en skatecamp is Pier15 een plek waar je jezelf blijft uitdagen en ontwikkelen. \n\nPier15 is dé hotspot voor urban sports & culture in Breda. Je vindt er o.a. het indoor skatepark, een buitenbowl, een freerunpark en een basketbalveld. Ook kun je er genieten van optredens van bandjes in de bar, filmpremières, foto-exposities, festivals, eigenzinnige performance avonden en uiteraard van een goede kop koffie of een lekker speciaalbiertje in de bar of op het zonnige terras",
-                    "thumbnail": [],
+                    "description": {
+                        "en": "Pier15 is the paradise for skaters and has one of the leading skate parks in Europe. But it is also a hotbed for culture! With weekly cultural events, festivals, and a skate school, Pier15 is a place where you can continue to challenge and develop yourself. Enjoy the casual atmosphere on the terrace and enjoy everything Pier15 has to offer. /n/nAt Pier15 you will find, among other things, the indoor skate park, an outdoor bowl, a free run park and a basketball court. You can also enjoy performances by bands, film premieres, photo exhibitions, quirky performance evenings and a good cup of coffee or a nice special beer in the bar or on the sunny terrace.",
+                        "nl": "Pier15 is hét paradijs voor skaters en heeft één van de meest toonaangevende skateparken van Europa. Maar het is ook een broeinest voor cultuur! Met wekelijks culturele evenementen, festivals en een skateschool is Pier15 een plek waar je jezelf blijft uitdagen en ontwikkelen. Geniet van de ongedwongen sfeer op het terras en van alles wat Pier15 te bieden heeft. \n\nBij Pier15 vind je o.a. het indoor skatepark, een buitenbowl, een freerunpark en een basketbalveld. Ook kun je er genieten van optredens van bandjes, filmpremières, foto-exposities en eigenzinnige performance avonden, maar ook van een goede kop koffie of een lekker speciaal biertje in de bar of op het zonnige terras."
+                     },
+                    "openHours": {
+                        "en": "Skatepark \n\nMonday to Tuesday: Closed \n\nWednesday to Friday: 15:00 - 23:00 \n\nSaturday: 14:00 - 23:00 \n\nSunday: 14:00 - 18:00 \n\n \n\nCafé \n\nMonday to Tuesday: Closed \n\nWednesday: 15:00 - 23:00 \n\nThursday: 15:00 - 00:00 \n\nFriday: 15:00 - 02:00 \n\nSaturday: 12:00 - 02:00 \n\nSunday: 12:00 - 18:00 ",
+                        "nl": "Skatepark \n\nMaandag tot dinsdag: Gesloten \n\nWoensdag t/m vrijdag: 15:00 - 23:00 \n\nZaterdag: 14:00 - 23:00 \n\nZondag: 14:00 - 18:00 \n\n \n\nCafé \n\nMaandag t/m dinsdag: Gesloten \n\nWoensdag: 15:00 - 23:00 \n\nDonderdag: 15:00 - 00:00 \n\nVrijdag: 15:00 - 02:00 \n\nZaterdag: 12:00 - 02:00 \n\nZondag: 12:00 - 18:00 "
+                     },
+                    "thumbnails": [
+                        "https://assets.citynavigator.nl/odp-breda/image/breda-explore-havenkwartier-5-medium_3916211616.jpg"
+                    ],
                     "address": "Veilingkade 12",
                     "city": "Breda",
-                    "footer_text": "Benieuwd naar het verhaal achter Pier15? Lees dan de blog.",
-                    "blog": "https://www.welkominbreda.nl/nl/blogs/pier15-brengt-grenzeloze-moves",
-                    "labels": ["activeAndFun", "entrepreneurs"]
+                    "postalCode": "4815 HC",
+                    "website": "https://pier15.nl",
+                    "labels": [
+                        "activeAndFun",
+                        "foodAndDrink",
+                        "culture"
+                    ]
                 },
                 {
                     "title": "BRACK",
-                    "number": 14,
+                    "type": "food",
+                    "id": "7d1c5883-a0f5-463c-a1c0-3932ef4585d2",
                     "color": "magenta",
                     "lat": 51.6005996,
                     "long": 4.7674736,
-                    "description": "BRACK beer construction is een samenwerking tussen Brouwerij Bliksem, Ramses Bier en Bredase Bomen. Met als uitgangspunt vernieuwende bieren en (h)eerlijk eten met een verantwoord en origineel uitgangspunt. De naam BRACK beer construction is een afgeleide van Backer & Rueb, Ramses, Bliksem en een verwijzing naar de locatie en oprichters. \n\nHet is ook een knipoog naar brak water omdat de locatie aan het water ligt en er bieren geschonken worden die niet altijd in een hokje te plaatsen zijn. BRACK is een creatieve en ongedwongen plek in een industrieel decor aan het water. Behalve de lekkerste bieren vind je er ook een menukaart met eerlijk en vers eten.",
-                    "thumbnail": [],
-                    "address": "Speelhuislaan 173a",
+                    "description": {
+                        "en": "You will find BRACK in the old factory halls of Machinefabriek Backer and Rueb. A creative and casual place in an industrial setting by the water. Here you can taste (many) innovative beers and enjoy honest and delicious food with a responsible and original starting point. \n\nBRACK beer construction is a collaboration between Brewery Bliksem, Ramses Bier and Bredase Bomen. Something is regularly organized such as festivals, beer tastings or other events. A wonderful place on the water where they serve beers that cannot always be placed in a box.",
+                        "nl": "In de oude fabriekshallen van Machinefabriek Backer en Rueb vind je BRACK. Een creatieve en ongedwongen plek in een industrieel decor aan het water. Hier kun je (veel) vernieuwende bieren proeven en genieten van (h)eerlijk eten met een verantwoord en origineel uitgangspunt. \n\nBRACK beer construction is een samenwerking tussen Brouwerij Bliksem, Ramses Bier en Bredase Bomen. Er worden hier regelmatig festivals, bierproeverijen of andere evenementen georganiseerd. Een heerlijke plek aan het water waar ze bieren tappen die niet altijd in een hokje te plaatsen zijn. \n\n"
+                     },
+                    "openHours": {
+                        "en": "Monday to Wednesday: Closed \n\nThursday to Friday: 16:00 - 00:00 \n\nSaturday: 12:00 - 00:00 \n\nSunday: 12:00 - 22:00 ",
+                        "nl": "Maandag t/m Woensdag: Gesloten \n\nDonderdag t/m Vrijdag: 16:00 - 00:00 \n\nZaterdag: 12:00 - 00:00 \n\nZondag: 12:00 - 22:00  "
+                     },
+                    "thumbnails": [
+                        "https://assets.citynavigator.nl/odp-breda/image/brack-11_469134640.jpg",
+                        "https://assets.citynavigator.nl/odp-breda/image/brack1_3746056704.jpeg"
+                    ],
+                    "address": "Speelhuislaan 173A",
                     "city": "Breda",
-                    "footer_text": "Bierliefhebber? Bekijk ons dit blog over alle brouwerijen in Breda!",
-                    "blog": "https://www.welkominbreda.nl/nl/blogs/brouwerijen-in-breda",
-                    "labels": ["history", "foodAndDrink"]
+                    "postalCode": "4815 CD",
+                    "website": "http://www.brackbreda.nl",
+                    "labels": [
+                        "foodAndDrink"
+                    ]
                 }
             ]
         }

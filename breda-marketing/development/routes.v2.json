@@ -883,7 +883,8 @@
                     "postalCode": "4811 JE",
                     "website": "https://www.everyhuman.com/nl",
                     "labels": [
-                        "shopping"
+                        "shopping",
+                        "activeAndFun"
                     ]
                 },
                 {
@@ -969,7 +970,7 @@
                 },
                 {
                     "title": "STEK",
-                    "type": "culture",
+                    "type": "entertainment",
                     "id": "0013bbf1-5eaf-4b0c-a526-b82e3cfde30f",
                     "color": "orange",
                     "lat": 51.5990158,
@@ -990,7 +991,6 @@
                     "postalCode": "4815 HC",
                     "website": "https://stekbreda.nl",
                     "labels": [
-                        "culture",
                         "activeAndFun",
                         "foodAndDrink",
                         "shopping"

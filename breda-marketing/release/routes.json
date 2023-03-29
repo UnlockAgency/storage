@@ -683,7 +683,7 @@
                     "lat": 51.592000,
                     "long": 4.780820,
                     "description": {
-                        "en": "Located in the beautiful Valkenberg Park, the T-Huis is one of Breda's hotspot. A place to escape the hustle and bustle of the city for a while. Whether you sit inside and enjoy the 360-degree view, or on the (all-day) sunny terrace. Even children, within sight of the terrace, have a great time in the fine playground. \n\nEnjoy a three-course dinner, lunch or even breakfast in the middle of greenery. Don´t let the name fool you: on the extensive drinks menu, you will find many types of tea and coffee as well as beautiful, seasonal special beers, summer cocktails and even homemade sangria. \n\nFor those who prefer to chill in the grass, there are lounge chairs and beanbags ready around the terrace and you can order quickly and simply via a QR code. In other words, any time of the day, all week long, you can enjoy T-huis.",
+                        "en": "Located in the beautiful Valkenberg Park, the T-Huis is one of Breda's hotspot. A place to escape the hustle and bustle of the city for a while. Whether you sit inside and enjoy the 360-degree view, or on the (all-day) sunny terrace. Even children, within sight of the terrace, have a great time in the fine playground. \n\nEnjoy a three-course dinner, lunch or even breakfast in the middle of greenery. Don´t let the name fool you: on the extensive drinks menu, you will find many types of tea and coffee as well as beautiful, seasonal special beers, summer cocktails and even homemade sangria. \n\nFor those who prefer to chill in the grass, there are lounge chairs and beanbags ready around the terrace and you can order quickly and simply via a QR code. In other words, any time of the day, all week long, you can enjoy T-huis.",
                         "nl": "Gelegen in het prachtige Valkenbergpark, is het T-Huis dé horeca hotspot van Breda. Een plek om even te ontsnappen aan de drukte van de stad. Of je nu binnen zit en geniet van het 360-graden uitzicht, of op het (heel de dag door) zonnige terras. Ook kinderen vermaken zich, in het zicht van het terras, prima in de fijne speeltuin. \n\nMidden in het groen geniet je van een driegangendiner, lunch en zelfs ontbijt. Don´t let the name fool you: op de uitgebreide drankkaart vind je naast veel soorten thee en koffie ook prachtige, seizoensgebonden speciaalbiertjes, zomerse cocktails en zelfs huisgemaakte sangria. \n\nVoor wie liever in het gras chilt, staan er loungestoelen en zitzakken klaar rondom het terras en bestel je via een QR-code snel en simpel. Oftewel, op elk moment van de dag, de hele week door, kun je bij het T-Huis prinsheerlijk genieten."
                     },
                     "openHours": {
@@ -714,8 +714,8 @@
                         "nl": "Bij Kamu gaan de liefde voor koffie en fietsen hand in hand. In deze koffiebar én unieke fietsenwinkel drink je een zijdezachte cappuccino met heerlijke cakes, maar helpen de specialisten je ook met alles wat je moet weten over fietsen. \n\nKamu is geen doorsnee fietsenwinkel, maar een shop vol met niche fietsmerken en accessoires. Het liefst stellen ze hier samen met jou een unieke custom bike samen, helemaal naar jouw wens. \n\nOok kun je bij Kamu terecht voor allerlei events, races én met al je vragen over gravel-, race- en mountainbikefietsen."
                      },
                     "openHours": {
-                        "en": "Monday to Friday: 09:00 - 17:30  \n\nSaturday: 09:00 - 17:00  \n\nSunday: 11:00 - 17:00",
-                        "nl": "Maandag t/m Vrijdag: 09:00 - 17:30 \n\nZaterdag: 09:00 - 17:00  \n\nZondag: 11:00 - 17:00"
+                        "en": "Monday to Friday: 09:00 - 17:30  \n\nSaturday: 09:00 - 17:00  \n\nSunday: 11:00 - 17:00",
+                        "nl": "Maandag t/m Vrijdag: 09:00 - 17:30 \n\nZaterdag: 09:00 - 17:00  \n\nZondag: 11:00 - 17:00"
                     },
                     "thumbnails": [
                         "https://assets.citynavigator.nl/odp-breda/image/kamu-breda4_4086953813.jpg"
@@ -756,7 +756,7 @@
                     ]
                 },
                 {
-                    "title": "SAARBARBAARS",
+                    "title": "SAAR BARBAARS",
                     "type": "shop",
                     "id": "4f7a0020-90c5-41c8-bdd9-65df9c2bad99",
                     "color": "indigo",
@@ -793,7 +793,7 @@
                         "nl": "Als sneakerliefhebber moet je bij Freek van FAWL Customs geweest zijn. Hier stel je namelijk je eigen sneakers samen, helemaal gebaseerd op jouw voorkeur. Freek customized ze met de hand voor je, zodat jij je eigen unieke paar schoenen hebt. Ook kun je bij FAWL terecht om je oude of vieze schoenen te ‘cleanen, restoren of reparen’. \n\nZo geef je je oude schoenen een nieuw leven. Daarnaast vind je in zijn winkel aan de St. Annastraat ook exclusieve én vintage sneakers."
                      },
                     "openHours": {
-                        "en": "Monday to Tuesday: Closed \n\nWednesday to Friday: 11:00 - 17:00  \n\nSaturday to Sunday: 12:00 - 17:00",
+                        "en": "Monday to Tuesday: Closed \n\nWednesday to Friday: 11:00 - 17:00  \n\nSaturday to Sunday: 12:00 - 17:00",
                         "nl": "Maandag t/m Dinsdag: Gesloten \n\nWoensdag t/m Vrijdag: 11:00 - 17:00 \n\nZaterdag t/m Zondag: 12:00 - 17:00"
                     },
                     "thumbnails": [

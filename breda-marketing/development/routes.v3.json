@@ -701,7 +701,7 @@
                     "city": "Breda",
                     "postalCode": "4811 ET",
                     "website": "https://t-huis.online",
-                    "notification": {
+                    "notifications": {
                         "range": 50,
                         "title": {
                             "en": "T-Huis title",

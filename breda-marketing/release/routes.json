@@ -701,15 +701,15 @@
                     "city": "Breda",
                     "postalCode": "4811 ET",
                     "website": "https://t-huis.online",
-                    "notification": {
-                        "range": 50,
+                    "notifications": {
+                        "range": 100,
                         "title": {
-                            "en": "T-Huis title",
-                            "nl": "T-Huis titel"
+                            "en": "Endless chilling at T-Huis",
+                            "nl": "Eindeloos chillen bij het T-Huis"
                         },
                         "content": {
-                            "en": "This is the specific content for the T-Huis location",
-                            "nl": "Dit is de specifieke inhoud van een notificatie voor T-Huis"
+                            "en": "The hotspot in the middle of the park where you can enjoy from breakfast to dinner! Curious?",
+                            "nl": "De hotspot midden in het groen waar je kan genieten van ontbijt tot diner! Nieuwsgierig?"
                         }
                     },
                     "labels": [
@@ -727,11 +727,11 @@
                     "description": {
                         "en": "At Kamu, the love of coffee and cycling go hand in hand. At this coffee bar and unique bike shop, you'll drink a silky smooth cappuccino with delicious cakes, but the specialists will also help you with everything you need to know about bikes.",
                         "nl": "Bij Kamu gaan de liefde voor koffie en fietsen hand in hand. In deze koffiebar én unieke fietsenwinkel drink je een zijdezachte cappuccino met heerlijke cakes, maar helpen de specialisten je ook met alles wat je moet weten over fietsen."
-                     },
-                     "expandedDescription": {
-                         "en": "Kamu is not your average bike shop, but a shop full of niche bike brands and accessories. Ideally, they will work with you here to put together a unique custom bike, completely to your liking. You can also come to Kamu for events, races and all your questions about gravel, road and mountain bikes.",
-                         "nl": "**Fietswalhalla** \n\nKamu is geen doorsnee fietsenwinkel, maar een shop vol met niche fietsmerken en accessoires. Het liefst stellen ze hier samen met jou een unieke custom bike samen, helemaal naar jouw wens. \nOok kun je bij Kamu terecht voor info over events en races én met al je vragen over gravel-, race- en mountainbikefietsen. Benieuwd naar het verhaal áchter deze toffe plek? Lees dan de [blog op onze website.](https://www.welkominbreda.nl/nl/blogs/kamu-brengt-koffie-en-fietsen-samen)"
-                     },
+                    },
+                    "expandedDescription": {
+                        "en": "Kamu is not your average bike shop, but a shop full of niche bike brands and accessories. Ideally, they will work with you here to put together a unique custom bike, completely to your liking. You can also come to Kamu for events, races and all your questions about gravel, road and mountain bikes.",
+                        "nl": "**Fietswalhalla** \n\nKamu is geen doorsnee fietsenwinkel, maar een shop vol met niche fietsmerken en accessoires. Het liefst stellen ze hier samen met jou een unieke custom bike samen, helemaal naar jouw wens. \nOok kun je bij Kamu terecht voor info over events en races én met al je vragen over gravel-, race- en mountainbikefietsen. Benieuwd naar het verhaal áchter deze toffe plek? Lees dan de [blog op onze website.](https://www.welkominbreda.nl/nl/blogs/kamu-brengt-koffie-en-fietsen-samen)"
+                    },
                     "openHours": {
                         "en": "Monday to Friday: 09:00 - 17:30 \nSaturday: 09:00 - 17:00 \nSunday: 11:00 - 17:00",
                         "nl": "Maandag t/m Vrijdag: 09:00 - 17:30 \nZaterdag: 09:00 - 17:00 \nZondag: 11:00 - 17:00"
@@ -744,14 +744,14 @@
                     "postalCode": "4811 GA",
                     "website": "https://www.kamu-breda.nl",
                     "notification": {
-                        "range": 50,
+                        "range": 100,
                         "title": {
-                            "en": "",
-                            "nl": ""
+                            "en": "Bicycle heaven at Kamu",
+                            "nl": "Fietswalhalla bij Kamu"
                         },
                         "content": {
-                            "en": "",
-                            "nl": ""
+                            "en": "A coffee bar and bike store in one. From custom bikes to silky smooth cappuccino. A real must-see!",
+                            "nl": "Een koffiebar en fietsenwinkel in één. Van custom bikes tot zijdezachte cappuccino. Een echte must-see!"
                         }
                     },
                     "labels": [
@@ -785,17 +785,7 @@
                     "city": "Breda",
                     "postalCode": "4811 XK",
                     "website": "https://www.thegreensubmarine.nl",
-                    "notification": {
-                        "range": 50,
-                        "title": {
-                            "en": "",
-                            "nl": ""
-                        },
-                        "content": {
-                            "en": "",
-                            "nl": ""
-                        }
-                    },
+                    "notification": null,
                     "labels": [
                         "shopping"
                     ]
@@ -810,15 +800,15 @@
                     "description": {
                         "en": "Urban, raw, unruly, and daring. That is the style of SAARBARBAARS. Sarah designs and makes unisex bags, accessories and sells her own merchandise. In her beautiful studio on the St. Annastraat, she makes high-quality artisan products.",
                         "nl": "Urban, rauw, tegendraads en gedurfd. Dat zijn het atelier en de stijl van SAARBARBAARS. Sarah ontwerpt en maakt uniseks tassen en accessoires en ze verkoopt haar eigen merchandise. In haar prachtige atelier aan de St. Annastraat ontwikkelt ze ambachtelijke producten van hoge kwaliteit."
-                     },
-                     "expandedDescription": {
-                         "en": "From design to end product, produced with lots of love and pleasure. Her designs are modern with a raw edge: streetwear in a luxurious layer. Curious about the different models in the collection? Be sure to drop in.",
-                         "nl": "**Met liefde**\n\nVan ontwerp tot eindproduct wordt hier met veel liefde en plezier geproduceerd. Sarah's ontwerpen zijn modern met een rauw randje: streetwear in een luxe jasje. Benieuwd naar de verschillende modellen uit de collectie? Loop zeker even binnen. Wil je meer weten over Sarah en haar atelier? Lees dan [de blog op onze website.](https://www.welkominbreda.nl/nl/blogs/sarah-brengt-creativiteit-tot-leven)"
-                     },
-                     "openHours": {
-                         "en": "Wednesday to Saturday: 11:00 - 17:30 \nSunday to Tuesday: Closed",
-                         "nl": "Woensdag t/m Zaterdag: 11:00 - 17:30 \nZondag t/m Dinsdag: Gesloten"
-                     },
+                    },
+                    "expandedDescription": {
+                        "en": "From design to end product, produced with lots of love and pleasure. Her designs are modern with a raw edge: streetwear in a luxurious layer. Curious about the different models in the collection? Be sure to drop in.",
+                        "nl": "**Met liefde**\n\nVan ontwerp tot eindproduct wordt hier met veel liefde en plezier geproduceerd. Sarah's ontwerpen zijn modern met een rauw randje: streetwear in een luxe jasje. Benieuwd naar de verschillende modellen uit de collectie? Loop zeker even binnen. Wil je meer weten over Sarah en haar atelier? Lees dan [de blog op onze website.](https://www.welkominbreda.nl/nl/blogs/sarah-brengt-creativiteit-tot-leven)"
+                    },
+                    "openHours": {
+                        "en": "Wednesday to Saturday: 11:00 - 17:30 \nSunday to Tuesday: Closed",
+                        "nl": "Woensdag t/m Zaterdag: 11:00 - 17:30 \nZondag t/m Dinsdag: Gesloten"
+                    },
                     "thumbnails": [
                         "https://assets.citynavigator.nl/odp-breda/image/saar-barbaars_3723486005.jpg"
                     ],
@@ -827,14 +817,14 @@
                     "postalCode": "4811 XK",
                     "website": "https://www.saarbarbaars.com",
                     "notification": {
-                        "range": 50,
+                        "range": 100,
                         "title": {
-                            "en": "",
-                            "nl": ""
+                            "en": "Creative craft in St. Annastraat",
+                            "nl": "Creatieve ambacht in de St. Annastraat"
                         },
                         "content": {
-                            "en": "",
-                            "nl": ""
+                            "en": "From a contrarian atelier to a unique sneakerstore. You will experience the passion of the entrepreneurs here!",
+                            "nl": "Van een tegendraads atelier tot een unieke sneakerstore. De passie van de ondernemers ervaar je hier!"
                         }
                     },
                     "labels": [
@@ -852,7 +842,7 @@
                         "en": "As a sneaker lover you must have visited Freek from FAWL Customs. Here you put together your own sneakers, based entirely on your preference. Freek customized them for you by hand, so that you have your own unique pair of shoes. You can also contact FAWL to clean, restore or repair your old or dirty shoes.",
                         "nl": "Als sneakerliefhebber moet je bij van FAWL Customs geweest zijn. Hier stel je namelijk je eigen sneakers samen, helemaal gebaseerd op jouw voorkeur. Freek customized ze met de hand voor je, zodat jij je eigen unieke paar schoenen hebt. Ook kun je bij FAWL terecht om je oude of vieze schoenen te 'cleanen, restoren of repairen'."
                     },
-                     "expandedDescription": {
+                    "expandedDescription": {
                         "en": "This is how you give your old shoes a new life. In addition, you will also find several exclusive and vintage sneakers in his store on St. Annastraat.",
                         "nl": "**Nieuw leven**\n\nZo geef je je oude schoenen een nieuw leven. Daarnaast vind je in zijn winkel aan de St. Annastraat ook exclusieve én vintage sneakers. [Lees in onze blog](https://www.welkominbreda.nl/nl/blogs/freek-brengt-nieuw-leven-in-jouw-sneakers) hoe Freek's tienerhobby uitgroeide tot deze unieke winkel."
                     },
@@ -867,17 +857,7 @@
                     "city": "Breda",
                     "postalCode": "4811 XK",
                     "website": "https://www.fawlcustoms.com",
-                    "notification": {
-                        "range": 50,
-                        "title": {
-                            "en": "",
-                            "nl": ""
-                        },
-                        "content": {
-                            "en": "",
-                            "nl": ""
-                        }
-                    },
+                    "notification": null,
                     "labels": [
                         "shopping"
                     ]
@@ -909,14 +889,14 @@
                     "postalCode": "4811 JC",
                     "website": "https://parelsbreda.nl",
                     "notification": {
-                        "range": 50,
+                        "range": 100,
                         "title": {
-                            "en": "",
-                            "nl": ""
+                            "en": "Treasure house of Parels",
+                            "nl": "De schatkamer van Parels"
                         },
                         "content": {
-                            "en": "",
-                            "nl": ""
+                            "en": "A circular store full of pearls with a past. Discover sustainable and circular Breda!",
+                            "nl": "Een circulaire winkel vol pareltjes met een verleden. Ontdek duurzaam en circulair Breda!"
                         }
                     },
                     "labels": [
@@ -934,7 +914,7 @@
                         "en": "At first glance, the parking lot 'Achter de Lange Stallen' is not the most inspiring place, until you discover all the creative street art. These murals are part of Blind Walls Gallery. Blind Walls Gallery is the museum on the street in Breda.",
                         "nl": "Je staat op het punt ons unieke museum op straat te ontdekken! Wist je dat we in Breda meer dan honderd muurschilderingen hebben? En er komen er nog steeds bij. Op deze route kom je er nog meer tegen."
                     },
-                     "expandedDescription": {
+                    "expandedDescription": {
                         "en": "A growing collection of over 100 murals created by international artists. Each painting is based on a Breda story that fits the location. In the parking lot you will find several Blind Walls, each with their own story and you will probably encounter more on this route.",
                         "nl": "**Hier kom je voor terug**\n\nDe muurschilderingen van de Blind Walls Gallery zijn gemaakt door internationale kunstenaars. Iedere schildering vertelt een Bredaas verhaal dat past bij de locatie. Kom zeker eens terug om met een van de speciale fiets- of wandelroutes op ontdekking te gaan."
                     },
@@ -950,14 +930,14 @@
                     "city": "Breda",
                     "postalCode": "4811 HM",
                     "notification": {
-                        "range": 50,
+                        "range": 100,
                         "title": {
-                            "en": "",
-                            "nl": ""
+                            "en": "Street art by Blind Walls Gallery",
+                            "nl": "Street art van Blind Walls Gallery"
                         },
                         "content": {
-                            "en": "",
-                            "nl": ""
+                            "en": "Beautiful murals with a Breda story by international artists. How many do you spot?",
+                            "nl": "Prachtige muurschilderingen met een Bredaas verhaal van internationale kunstenaars. Hoeveel spot jij er?"
                         }
                     },
                     "labels": [
@@ -976,10 +956,10 @@
                         "en": "At Algorithmic Perfumery, you put together your own perfume based on a questionnaire about your personality. A place where creativity and technology come together and where you can experience a unique fragrance experience.",
                         "nl": "Hier ontdek je welke geur het best bij jóu past.  Bij Algorithmic Perfumery stel je aan de hand van een vragenlijst over jouw persoonlijkheid zelf een parfum samen. Bredanaar Frederik Duerinck bracht hier creativiteit, kunst en technologie samen. Beleef zelf ook zo'n unieke geur experience."
                     },
-                     "expandedDescription": {
-                         "en": "In the 'lab' you can see the machine that composes this fragrance for you and the staff will take you into the world of fragrance. Together you will look for your unique perfume or create a signature scent for someone you know. A unique place in the shopping district of Breda.",
-                         "nl": "**Wereld van geur**\n\nIn het 'lab' neemt een medewerker je mee in de wereld van geur. Samen gaan jullie op zoek naar jouw unieke parfum of dat van iemand die je kent. De 'intelligente' parfummachine (waarvan er intussen ook een in New York en Dubai staat) stelt het voor je samen. Een verrassende plek in de winkelstraat van Breda. Lees hoe een kunstproject uitgroeide tot Algorithmic Perfumery in de blog [op onze website.](https://www.welkominbreda.nl/nl/blogs/algorithmic-perfumery-brengt-een-wereld-van-geur)"
-                     },
+                    "expandedDescription": {
+                        "en": "In the 'lab' you can see the machine that composes this fragrance for you and the staff will take you into the world of fragrance. Together you will look for your unique perfume or create a signature scent for someone you know. A unique place in the shopping district of Breda.",
+                        "nl": "**Wereld van geur**\n\nIn het 'lab' neemt een medewerker je mee in de wereld van geur. Samen gaan jullie op zoek naar jouw unieke parfum of dat van iemand die je kent. De 'intelligente' parfummachine (waarvan er intussen ook een in New York en Dubai staat) stelt het voor je samen. Een verrassende plek in de winkelstraat van Breda. Lees hoe een kunstproject uitgroeide tot Algorithmic Perfumery in de blog [op onze website.](https://www.welkominbreda.nl/nl/blogs/algorithmic-perfumery-brengt-een-wereld-van-geur)"
+                    },
                     "openHours": {
                         "en": "Monday: 12:00 - 18:00 \nTuesday, Wednesday, Friday & Saturday: 10:00 - 18:00 \nThursday: 10:00 - 21:00 \nSunday: 12:00 - 17:00",
                         "nl": "Maandag: 12:00 - 18:00 \nDinsdag, Woensdag, Vrijdag & Zaterdag: 10:00 - 18:00 \nDonderdag: 10:00 - 21:00 \nZondag: 12:00 - 17:00"
@@ -992,14 +972,14 @@
                     "postalCode": "4811 JE",
                     "website": "https://www.everyhuman.com/nl",
                     "notification": {
-                        "range": 50,
+                        "range": 100,
                         "title": {
-                            "en": "",
-                            "nl": ""
+                            "en": "Creative fragrance at Algorithmic Perfumery",
+                            "nl": "Creatief luchtje bij Algorithmic Perfumery"
                         },
                         "content": {
-                            "en": "",
-                            "nl": ""
+                            "en": "An experience where you discover your personal fragrance. Step inside and discover!",
+                            "nl": "Een experience waar je op ontdekking gaat naar jouw persoonlijke geur. Stap binnen en ontdek!"
                         }
                     },
                     "labels": [
@@ -1018,14 +998,14 @@
                         "en": "Do you want to go out on the water? Then moor at BAAI, a place where it always seems like a holiday. BAAI is a nice spot on the water where you can moor (and rent) boats and enjoy music, games, and good food.",
                         "nl": "Bij BAAI lijkt het altijd vakantie te zijn. Dus mocht je het water op gaan, leg dan vooral even aan bij deze fijne spot om te genieten van muziek, een spelletje en lekker eten. Een sloep huren kan hier ook."
                     },
-                     "expandedDescription": {
-                         "en": "BAAI is a hotspot where everyone can go and experience something that suits them. It is perfect for groups, but you can also relax while enjoying a drink. Every season BAAI is transformed into a real 'seasonal hotspot'. From igloos in the winter to a sunny terrace in the summer.",
-                         "nl": "**Seizoenshotspot**\n\nIedereen kan hier iets beleven wat bij hem of haar past. Een perfecte plek voor gezelschappen, maar je komt er ook lekker tot rust onder het genot van een drankje. Ieder seizoen wordt BAAI omgebouwd tot een echte 'seizoenshotspot'. Van iglo's in de winter tot een zonnig terras in de zomer. Benieuwd naar deze toffe plek? Lees dan [de blog op onze website.](https://www.welkominbreda.nl/nl/blogs/baai-brengt-het-ultieme-vakantiegevoel)"
-                     },
+                    "expandedDescription": {
+                        "en": "BAAI is a hotspot where everyone can go and experience something that suits them. It is perfect for groups, but you can also relax while enjoying a drink. Every season BAAI is transformed into a real 'seasonal hotspot'. From igloos in the winter to a sunny terrace in the summer.",
+                        "nl": "**Seizoenshotspot**\n\nIedereen kan hier iets beleven wat bij hem of haar past. Een perfecte plek voor gezelschappen, maar je komt er ook lekker tot rust onder het genot van een drankje. Ieder seizoen wordt BAAI omgebouwd tot een echte 'seizoenshotspot'. Van iglo's in de winter tot een zonnig terras in de zomer. Benieuwd naar deze toffe plek? Lees dan [de blog op onze website.](https://www.welkominbreda.nl/nl/blogs/baai-brengt-het-ultieme-vakantiegevoel)"
+                    },
                     "openHours": {
                         "en": "February to March open on request \nFrom March regular opening hours ",
                         "nl": "Februari t/m Maart: Geopend op aanvraag \n(Vanaf eind maart weer regulier geopend. De openingstijden volgen.)"
-                     },
+                    },
                     "thumbnails": [
                         "https://assets.citynavigator.nl/odp-breda/image/baai_2442833005.jpg"
                     ],
@@ -1034,14 +1014,14 @@
                     "postalCode": "4915 HJ",
                     "website": "https://baaibreda.nl",
                     "notification": {
-                        "range": 50,
+                        "range": 300,
                         "title": {
-                            "en": "",
-                            "nl": ""
+                            "en": "Enjoy by or on the water at BAAI",
+                            "nl": "Geniet aan of op het water bij BAAI"
                         },
                         "content": {
-                            "en": "",
-                            "nl": ""
+                            "en": "The place where it feels like vacation. Rent a boat or enjoy all the goodies BAAI has to offer.",
+                            "nl": "Dé plek waar het voelt als vakantie. Huur een boot of geniet van al het lekkers wat BAAI te bieden heeft."
                         }
                     },
                     "labels": [
@@ -1078,12 +1058,12 @@
                     "notification": {
                         "range": 50,
                         "title": {
-                            "en": "",
-                            "nl": ""
+                            "en": "Discover creative Brandpunt",
+                            "nl": "Creatief (Brand)punt"
                         },
                         "content": {
-                            "en": "",
-                            "nl": ""
+                            "en": "A concept store where lunch, shopping and gift lasering come together. Discover it here!",
+                            "nl": "Een conceptstore waar lunchen, winkelen en cadeaus laseren samen komen. Ontdek het hier!"
                         }
                     },
                     "labels": [
@@ -1118,14 +1098,14 @@
                     "postalCode": "4816 BG",
                     "website": "https://frontaalbrewingcompany.com",
                     "notification": {
-                        "range": 50,
+                        "range": 300,
                         "title": {
-                            "en": "",
-                            "nl": ""
+                            "en": "Unique beer at Brouwerij Frontaal",
+                            "nl": "Uniek bier bij Brouwerij Frontaal"
                         },
                         "content": {
-                            "en": "",
-                            "nl": ""
+                            "en": "Experience what 'Beer for Thought' means on the sunny terrace or in the brew pub.",
+                            "nl": "Ervaar wat 'Beer for Thought' betekent op het zonnige terras of in het brouwcafé."
                         }
                     },
                     "labels": [
@@ -1160,13 +1140,14 @@
                     "postalCode": "4815 HC",
                     "website": "https://stekbreda.nl",
                     "notification": {
+                        "range": 50,
                         "title": {
-                            "en": "",
-                            "nl": ""
+                            "en": "Making and experiencing impact at STEK",
+                            "nl": "Impact maken en ervaren doe je op STEK"
                         },
                         "content": {
-                            "en": "",
-                            "nl": ""
+                            "en": "An incubator of forward-thinking entrepreneurs where creativity can be found in every corner.",
+                            "nl": "Een broedplaats van toekomstbewuste ondernemers waar creativiteit in elke hoek te vinden is."
                         }
                     },
                     "labels": [
@@ -1202,13 +1183,14 @@
                     "postalCode": "4815 HC",
                     "website": "https://pier15.nl",
                     "notification": {
+                        "range": 50,
                         "title": {
-                            "en": "",
-                            "nl": ""
+                            "en": "Challenge yourself at Pier15",
+                            "nl": "Daag jezelf uit bij Pier15"
                         },
                         "content": {
-                            "en": "",
-                            "nl": ""
+                            "en": "A paradise for skaters, a hotspot for culture and a place for casual fun.",
+                            "nl": "Een paradijs voor skaters, een broeinest voor cultuur en een plek om ongedwongen te genieten."
                         }
                     },
                     "labels": [
@@ -1245,13 +1227,14 @@
                     "postalCode": "4815 CD",
                     "website": "http://www.brackbreda.nl",
                     "notification": {
+                        "range": 50,
                         "title": {
-                            "en": "",
-                            "nl": ""
+                            "en": "34 home-brewed beers at BRACK",
+                            "nl": "34 zelf gebrouwen bieren bij BRACK"
                         },
                         "content": {
-                            "en": "",
-                            "nl": ""
+                            "en": "BRACK's raw character is reflected in the industrial hall, the honest food and the locally brewed beers.",
+                            "nl": "Het rauwe karakter van BRACK zie je terug in de industriële hal, het (h)eerlijke eten en de lokaal gebrouwen bieren."
                         }
                     },
                     "labels": [

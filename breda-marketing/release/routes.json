@@ -863,6 +863,130 @@
                     ]
                 },
                 {
+                    "title": "Nieuwe Veste",
+                    "type": "culture",
+                    "id": "705c8680-e27d-11ed-b5ea-0242ac120002",
+                    "color": "steel",
+                    "lat": 51.5878791809082,
+                    "long": 4.779253959655762,
+                    "description": {
+                        "en": "If you want to develop your creativity in Breda, you can&#39;t ignore Nieuwe Veste. Here you will find countless courses and workshops in music, dance, theater, musical, visual arts and writing. This is for everyone, whether you are young or old, beginner or advanced.",
+                        "nl": "Als je in Breda je creativiteit wilt ontwikkelen, kun je niet om Nieuwe Veste heen. Je vindt hier ontelbaar veel cursussen en workshops op het gebied van muziek, dans, theater, musical, beeldend en schrijven. En dat voor iedereen, of je nu jong bent of oud, beginner of gevorderde."
+                    },
+                    "expandedDescription": {
+                        "en": "But Nieuwe Veste is more. In the Makersbase, for example, you can work with 3D design, 3D printing and laser cutting under the guidance of a coach, you can go here if you have problems with the Dutch language, and Nieuwe Veste offers help with applying for a job or surfing the internet safely. Last but not least, the library is also part of Nieuwe Veste. \n\nAre you a visitor to Breda? Check the agenda regularly because you can regularly enjoy performances by students, teachers or outside artists.",
+                        "nl": "Maar Nieuwe Veste is meer. Zo kun je in de Makersbase onder leiding van een coach zelf aan de slag met bijvoorbeeld 3D ontwerpen, 3D printen en lasersnijden, kun je terecht als je problemen hebt met de Nederlandse taal én Nieuwe Veste biedt hulp bij solliciteren of veilig internetten. En niet te vergeten, ook de Bibliotheek is onderdeel van Nieuwe Veste. \n\n Ben je een bezoeker van Breda? Bekijk dan vooral de agenda want regelmatig geniet je hier van optredens door leerlingen, docenten of artiesten van buitenaf."
+                    },
+                    "openHours": {
+                        "en": "Monday to Friday: 08:30 - 22:00 \nSaturday: 09:00 - 17:00 \nSunday: 12:00 - 17:00",
+                        "nl": "Maandag t/m Vrijdag: 08:30 - 22:00 \nZaterdag: 09:00 - 17:00 \nZondag: 12:00 - 17:00"
+                    },
+                    "thumbnails": [
+                        "https://assets.citynavigator.nl/odp-breda/image/211124nieuweveste5_4243343070.jpg"
+                    ],
+                    "address": "Molenstraat 6",
+                    "city": "Breda",
+                    "postalCode": "4811 GS",
+                    "website": "https://www.nieuweveste.nl/",
+                    "notification": {
+                        "range": 50,
+                        "title": {
+                            "en": "",
+                            "nl": ""
+                        },
+                        "content": {
+                            "en": "",
+                            "nl": ""
+                        }
+                    },
+                    "labels": [
+                        "culture"
+                    ]
+                },
+                {
+                    "title": "Bühne",
+                    "type": "culture",
+                    "id": "4e729460-e27d-11ed-b5ea-0242ac120002",
+                    "color": "steel",
+                    "lat": 51.5878472,
+                    "long": 4.7773909,
+                    "description": {
+                        "en": "Bühne is an eatery, stage and breeding ground all in one. It is a meeting place where creative talent is given a stage and where, as a visitor, you can enjoy innovative creators in the musical, artistic and culinary fields.",
+                        "nl": "Bühne is een eetcafé, podium en broedplaats ineen. Het is een ontmoetingsplek waar creatief talent een podium krijgt en waar je als bezoeker geniet van vernieuwende makers op muzikaal, artistiek en culinair gebied."
+                    },
+                    "expandedDescription": {
+                        "en": "The kitchen is run by KurrieBaas. That alone is a reason to come down here. The menu features Oriental dishes with a local touch here and there. The perfect place to discover Breda's creative talent during your drink or meal. Curious about more information from this special place? Read [the blog about Bühne](https://www.welkominbreda.nl/nl/blogs/maak-kennis-met-buhne-de-nieuwe-creatieve-speeltuin-voor-makers-en-creatievelingen) on our website.",
+                        "nl": "De keuken wordt bestierd door KurrieBaas. Alleen dat is al een reden om hier een keer neer te strijken. Op het menu staan Oosterse gerechten met hier en daar een lokaal tintje. De perfecte plek om tijdens je borrel of maaltijd het creatieve talent van Breda te ontdekken. Benieuwd naar meer informatie over deze bijzondere plek? Lees dan [de blog over Bühne](https://www.welkominbreda.nl/nl/blogs/maak-kennis-met-buhne-de-nieuwe-creatieve-speeltuin-voor-makers-en-creatievelingen) op onze website."
+                    },
+                    "openHours": {
+                        "en": "Sunday to Tuesday: Closed \nWednesday: 11:00 - 23:00 \nThursday: 11:00 - 00:00",
+                        "nl": "Zondag t/m Dinsdag: Gesloten \nWoensdag t/m Zaterdag: 11:00 - 23:00"
+                    },
+                    "thumbnails": [
+                        "https://assets.citynavigator.nl/odp-breda/image/mvi-0977-mp4-19-05-12-17-still001_1429879642.jpg"
+                    ],
+                    "address": "Sint Janstraat 11",
+                    "city": "Breda",
+                    "postalCode": "4811 ZK",
+                    "website": "https://www.buhne-breda.nl/",
+                    "notification": {
+                        "range": 50,
+                        "title": {
+                            "en": "",
+                            "nl": ""
+                        },
+                        "content": {
+                            "en": "",
+                            "nl": ""
+                        }
+                    },
+                    "labels": [
+                        "culture",
+                        "foodAndDrink"
+                    ]
+                },
+                {
+                    "title": "Happy Hippies",
+                    "type": "shop",
+                    "id": "665e8566-e27d-11ed-b5ea-0242ac120002",
+                    "color": "turquoise",
+                    "lat": 51.5871639,
+                    "long": 4.7771705,
+                    "description": {
+                        "en": "Happy Hippies is one of those colorful stores that immediately makes you happy. Ronel and Gertjan sell, among other things, unique jewelry, made in their own goldsmith workshop. They also created the sustainably made clothing in the shop. Creative craftsmanship is central to these entrepreneurs.",
+                        "nl": "Happy Hippies is zo’n kleurrijke winkel waarvan je meteen vrolijk wordt. Ronel en Gertjan verkopen er onder meer unieke sieraden, gemaakt in het eigen goudsmidatelier. Ook de duurzaam gemaakte kleding in de winkel is van hun hand. Bij deze ondernemers staat het creatieve ambacht centraal."
+                    },
+                    "expandedDescription": {
+                        "en": "You can also find special gifts and accessories for at home by Happy Hippies. Ronel and Gertjan love to share their love for the goldsmith profession with others. Therefore, they regularly organize workshops and courses in goldsmithing.",
+                        "nl": "Verder vind je bij Happy Hippies ook bijzondere cadeautjes en accessoires voor in huis. De liefde voor het vak van goudsmid delen Ronel en Gertjan graag met anderen. Daarom organiseren ze regelmatig workshops en cursussen edelsmeden."
+                    },
+                    "openHours": {
+                        "en": "Monday: Closed \nTuesday to Saturday: 10:00 - 17:00 \nSunday: 12:00 - 17:00",
+                        "nl": "Maandag: Gesloten \nDinsdag t/m zaterdag: 10:00 - 17:00 \nZondag: 12:00 - 17:00"
+                    },
+                    "thumbnails": [
+                        "https://assets.citynavigator.nl/odp-breda/image/20230322-134628_2550139820.jpg"
+                    ],
+                    "address": "Halstraat 9",
+                    "city": "Breda",
+                    "postalCode": "4811 HV",
+                    "website": "https://happy-hippies.nl/",
+                    "notification": {
+                        "range": 50,
+                        "title": {
+                            "en": "",
+                            "nl": ""
+                        },
+                        "content": {
+                            "en": "",
+                            "nl": ""
+                        }
+                    },
+                    "labels": [
+                        "shopping"
+                    ]
+                },
+                {
                     "title": "Parels",
                     "type": "shop",
                     "id": "c9afb4bd-a063-4870-b264-2fbc39aa1704",
@@ -1029,6 +1153,50 @@
                         "activeAndFun"
                     ]
                 },
+                {
+                    "title": "Holy Moly",
+                    "type": "entertainment",
+                    "id": "dab1c470-5041-4cd0-a57f-7e430e8eb614",
+                    "color": "gold",
+                    "lat": 51.5888088,
+                    "long": 4.7746901,
+                    "description": {
+                        "en": "Be amazed and entertained at Holy Moly. A place where truly anything goes. Here you can laugh during the comedy club nights, enjoy in the restaurant or unravel a mysterious history during the Holy Moly Trip. Be sure to check Holy Moly's calendar and [everything about Holy Moly](https://www.welkominbreda.nl/nl/blogs/holy-moly-breda) on our website!",
+                        "nl": "Laat je bij Holy Moly verbazen, verwonderen en entertainen. Een plek waar echt van alles gebeurt. Hier kun je heerlijk lachen tijdens de comedy club avonden, genieten in het restaurant of een mysterieuze geschiedenis ontrafelen tijdens de Holy Moly Trip. Check de agenda en [alle informatie over Holy Moly](https://www.welkominbreda.nl/nl/blogs/holy-moly-breda) op onze website!"
+                    },
+                    "expandedDescription": {
+                        "en": "",
+                        "nl": ""
+                    },
+                    "openHours": {
+                        "en": "Monday: Closed \nTuesday\u002A: 18:00 - 00:00 \nWednesday: 18:00 - 00:00 \nThursday\u002A\u002A: 17:00 - 04:00 \nFriday: 17:00 - 04:00 \nSaturday: 17:00 - 04:00 \nSunday: 17:00 - 23:00 \n\n\u002A On Tuesdays, we are only open during comedy nights. When there is no comedy night we are closed on Tuesdays. \n\n\u002A\u002A Our restaurant is open every Thursday from 5:00 pm to 11:00 pm. On club nights the club will be open from 23:00 to 04:00. Want to know when the club nights are? Check our socials. Check our socials.",
+                        "nl": "Maandag: Gesloten \nDinsdag\u002A: 18.00 - 00.00 uur \nWoensdag: 18.00 - 00.00 uur \nDonderdag\u002A\u002A: 17.00 - 04.00 uur \nVrijdag: 17.00 - 04.00 uur \nZaterdag: 17.00 - 04.00 uur \nZondag: 17.00 - 23.00 uur \n\n\u002A Op dinsdagen zijn we alleen geopend tijdens comedy avonden. Wanneer er geen comedy avond is zijn wij op dinsdag gesloten. \n\n\u002A\u002A Ons restaurant is iedere donderdag geopend van 17:00 uur tot 23:00 uur. Op clubavonden zal de club geopend zijn van 23:00 uur tot 04:00 uur. Wil je weten wanneer de clubavond zijn? Check onze socials."
+                    },
+                    "thumbnails": [
+                        "https://assets.citynavigator.nl/odp-breda/image/holy-moly-club-11-foto-rosa-meininger_170812612.jpeg"
+                    ],
+                    "address": "Torenstraat 17",
+                    "city": "Breda",
+                    "postalCode": "4811 VX",
+                    "website": "https://holymolybreda.nl/",
+                    "notification": {
+                        "range": 50,
+                        "title": {
+                            "en": "",
+                            "nl": ""
+                        },
+                        "content": {
+                            "en": "",
+                            "nl": ""
+                        }
+                    },
+                    "labels": [
+                        "activeAndFun",
+                        "foodAndDrink"
+                    ]
+                }
+            ]
+        },
                 {
                     "title": "Brandpunt",
                     "type": "shop",
@@ -1241,7 +1409,5 @@
                         "foodAndDrink"
                     ]
                 }
-            ]
-        }
     ]
 }

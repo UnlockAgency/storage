@@ -885,17 +885,7 @@
 					"city": "Breda",
 					"postalCode": "4811 GS",
 					"website": "https://www.nieuweveste.nl/",
-					"notification": {
-						"range": 50,
-						"title": {
-							"en": "",
-							"nl": ""
-						},
-						"content": {
-							"en": "",
-							"nl": ""
-						}
-					},
+					"notification": null,
 					"labels": [
 						"culture"
 					]
@@ -926,17 +916,7 @@
 					"city": "Breda",
 					"postalCode": "4811 ZK",
 					"website": "https://www.buhne-breda.nl/",
-					"notification": {
-						"range": 50,
-						"title": {
-							"en": "",
-							"nl": ""
-						},
-						"content": {
-							"en": "",
-							"nl": ""
-						}
-					},
+					"notification": null,
 					"labels": [
 						"culture",
 						"foodAndDrink"
@@ -968,17 +948,7 @@
 					"city": "Breda",
 					"postalCode": "4811 HV",
 					"website": "https://happy-hippies.nl/",
-					"notification": {
-						"range": 50,
-						"title": {
-							"en": "",
-							"nl": ""
-						},
-						"content": {
-							"en": "",
-							"nl": ""
-						}
-					},
+					"notification": null,
 					"labels": [
 						"shopping"
 					]
@@ -1176,17 +1146,7 @@
 					"city": "Breda",
 					"postalCode": "4811 VX",
 					"website": "https://holymolybreda.nl/",
-					"notification": {
-						"range": 50,
-						"title": {
-							"en": "",
-							"nl": ""
-						},
-						"content": {
-							"en": "",
-							"nl": ""
-						}
-					},
+					"notification": null,
 					"labels": [
 						"activeAndFun",
 						"foodAndDrink"

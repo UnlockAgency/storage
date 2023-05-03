@@ -733,8 +733,8 @@
                         "nl": "**Fietswalhalla** \n\nKamu is geen doorsnee fietsenwinkel, maar een shop vol met niche fietsmerken en accessoires. Het liefst stellen ze hier samen met jou een unieke custom bike samen, helemaal naar jouw wens. \nOok kun je bij Kamu terecht voor info over events en races én met al je vragen over gravel-, race- en mountainbikefietsen. Benieuwd naar het verhaal áchter deze toffe plek? Lees dan de [blog op onze website.](https://www.welkominbreda.nl/nl/blogs/kamu-brengt-koffie-en-fietsen-samen)"
                     },
                     "openHours": {
-                        "en": "Monday to Friday: 09:00 - 17:30 \nSaturday: 09:00 - 17:00 \nSunday: 11:00 - 17:00",
-                        "nl": "Maandag t/m Vrijdag: 09:00 - 17:30 \nZaterdag: 09:00 - 17:00 \nZondag: 11:00 - 17:00"
+                        "en": "Monday to Friday: 09:00 - 17:30 \nSaturday: 09:00 - 17:00 \nSunday: 10:00 - 17:00",
+                        "nl": "Maandag t/m Vrijdag: 09:00 - 17:30 \nZaterdag: 09:00 - 17:00 \nZondag: 10:00 - 17:00"
                     },
                     "thumbnails": [
                         "https://assets.citynavigator.nl/odp-breda/image/kamu-breda4_4086953813.jpg"
@@ -888,7 +888,17 @@
                     "city": "Breda",
                     "postalCode": "4811 GS",
                     "website": "https://www.nieuweveste.nl/",
-                    "notification": null,
+                    "notification": {
+                        "range": 50,
+                        "title": {
+                            "en": "Develop creativity at Nieuwe Veste",
+                            "nl": "Creativiteit ontwikkelen bij Nieuwe Veste"
+                        },
+                        "content": {
+                            "en": "A place where your senses are stimulated in terms of language, creativity and art.",
+                            "nl": "Een plek waar je zintuigen geprikkeld worden op het gebied van taal, creativiteit en kunst."
+                        }
+                    },
                     "labels": [
                         "culture"
                     ]
@@ -919,7 +929,17 @@
                     "city": "Breda",
                     "postalCode": "4811 ZK",
                     "website": "https://www.buhne-breda.nl/",
-                    "notification": null,
+                    "notification": {
+                        "range": 50,
+                        "title": {
+                            "en": "A platform for creative talent at Bühne",
+                            "nl": "Een Bühne voor creatief talent"
+                        },
+                        "content": {
+                            "en": "A meeting place where you enjoy innovative creators in the musical, artistic and culinary fields.",
+                            "nl": "Een ontmoetingsplek waar je geniet van vernieuwende makers op muzikaal, artistiek en culinair gebied."
+                        }
+                    },
                     "labels": [
                         "culture",
                         "foodAndDrink"
@@ -951,7 +971,17 @@
                     "city": "Breda",
                     "postalCode": "4811 HV",
                     "website": "https://happy-hippies.nl/",
-                    "notification": null,
+                    "notification": {
+                        "range": 50,
+                        "title": {
+                            "en": "Unique and creative craft at Happy Hippies",
+                            "nl": "Unieke en creatieve ambacht bij Happy Hippies"
+                        },
+                        "content": {
+                            "en": "A casual atmosphere in a colourful shop with the finest homemade jewellery and clothing.",
+                            "nl": "Een ongedwongen sfeer in een kleurrijke winkel met de mooiste, zelfgemaakte sieraden en kleding."
+                        }
+                    },
                     "labels": [
                         "shopping"
                     ]
@@ -1131,16 +1161,16 @@
                     "lat": 51.5888088,
                     "long": 4.7746901,
                     "description": {
-                        "en": "Be amazed and entertained at Holy Moly. A place where truly anything goes. Here you can laugh during the comedy club nights, enjoy in the restaurant or unravel a mysterious history during the Holy Moly Trip. Be sure to check Holy Moly's calendar and [everything about Holy Moly](https://www.welkominbreda.nl/nl/blogs/holy-moly-breda) on our website!",
-                        "nl": "Laat je bij Holy Moly verbazen, verwonderen en entertainen. Een plek waar echt van alles gebeurt. Hier kun je heerlijk lachen tijdens de comedy club avonden, genieten in het restaurant of een mysterieuze geschiedenis ontrafelen tijdens de Holy Moly Trip. Check de agenda en [alle informatie over Holy Moly](https://www.welkominbreda.nl/nl/blogs/holy-moly-breda) op onze website!"
+                        "en": "Be amazed and entertained at Holy Moly. A place where truly anything goes. Here you can laugh during the comedy club nights, enjoy in the restaurant or unravel a mysterious history during the Holy Moly Trip.",
+                        "nl": "Laat je bij Holy Moly verbazen, verwonderen en entertainen. Een plek waar echt van alles gebeurt. Hier kun je heerlijk lachen tijdens de comedy club avonden, genieten in het restaurant of een mysterieuze geschiedenis ontrafelen tijdens de Holy Moly Trip."
                     },
                     "expandedDescription": {
-                        "en": "",
-                        "nl": ""
+                        "en": "Want to know more abour us and when our club nights take place? Be sure to check Holy Moly's calendar and [everything about Holy Moly](https://www.welkominbreda.nl/nl/blogs/holy-moly-breda) on our website!",
+                        "nl": "Wil je meer weten over ons en wanneer de clubavonden zijn? Check de agenda en [alle informatie over Holy Moly](https://www.welkominbreda.nl/nl/blogs/holy-moly-breda) op onze website!"
                     },
                     "openHours": {
-                        "en": "Monday: Closed \nTuesday\u002A: 18:00 - 00:00 \nWednesday: 18:00 - 00:00 \nThursday\u002A\u002A: 17:00 - 04:00 \nFriday: 17:00 - 04:00 \nSaturday: 17:00 - 04:00 \nSunday: 17:00 - 23:00 \n\n\u002A On Tuesdays, we are only open during comedy nights. When there is no comedy night we are closed on Tuesdays. \n\n\u002A\u002A Our restaurant is open every Thursday from 5:00 pm to 11:00 pm. On club nights the club will be open from 23:00 to 04:00. Want to know when the club nights are? Check our socials. Check our socials.",
-                        "nl": "Maandag: Gesloten \nDinsdag\u002A: 18.00 - 00.00 uur \nWoensdag: 18.00 - 00.00 uur \nDonderdag\u002A\u002A: 17.00 - 04.00 uur \nVrijdag: 17.00 - 04.00 uur \nZaterdag: 17.00 - 04.00 uur \nZondag: 17.00 - 23.00 uur \n\n\u002A Op dinsdagen zijn we alleen geopend tijdens comedy avonden. Wanneer er geen comedy avond is zijn wij op dinsdag gesloten. \n\n\u002A\u002A Ons restaurant is iedere donderdag geopend van 17:00 uur tot 23:00 uur. Op clubavonden zal de club geopend zijn van 23:00 uur tot 04:00 uur. Wil je weten wanneer de clubavond zijn? Check onze socials."
+                        "en": "Monday: Closed \nTuesday\u002A: 18:00 - 00:00 \nWednesday: 18:00 - 00:00 \nThursday\u002A\u002A: 17:00 - 04:00 \nFriday: 17:00 - 04:00 \nSaturday: 17:00 - 04:00 \nSunday: 17:00 - 23:00 \n\n\u002A On Tuesdays, we are only open during comedy nights. When there is no comedy night we are closed on Tuesdays. \n\n\u002A\u002A Our restaurant is open every Thursday from 5:00 pm to 11:00 pm. On club nights the club will be open from 23:00 to 04:00.",
+                        "nl": "Maandag: Gesloten \nDinsdag\u002A: 18.00 - 00.00 uur \nWoensdag: 18.00 - 00.00 uur \nDonderdag\u002A\u002A: 17.00 - 04.00 uur \nVrijdag: 17.00 - 04.00 uur \nZaterdag: 17.00 - 04.00 uur \nZondag: 17.00 - 23.00 uur \n\n\u002A Op dinsdagen zijn we alleen geopend tijdens comedy avonden. Wanneer er geen comedy avond is zijn wij op dinsdag gesloten. \n\n\u002A\u002A Ons restaurant is iedere donderdag geopend van 17:00 uur tot 23:00 uur. Op clubavonden zal de club geopend zijn van 23:00 uur tot 04:00 uur."
                     },
                     "thumbnails": [
                         "https://assets.citynavigator.nl/odp-breda/image/holy-moly-club-11-foto-rosa-meininger_170812612.jpeg"
@@ -1149,7 +1179,17 @@
                     "city": "Breda",
                     "postalCode": "4811 VX",
                     "website": "https://holymolybreda.nl/",
-                    "notification": null,
+                    "notification": {
+                        "range": 50,
+                        "title": {
+                            "en": "Ready to trip at Holy Moly?",
+                            "nl": "Kom je trippen bij Holy Moly?"
+                        },
+                        "content": {
+                            "en": "A place of wonder, entertainment and amazement. Nothing is ordinary here!",
+                            "nl": "Een plek van verbazing, entertainment en verwondering. Niets is hier gewoon!"
+                        }
+                    },
                     "labels": [
                         "activeAndFun",
                         "foodAndDrink"
